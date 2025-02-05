@@ -47,11 +47,13 @@ from relik.inference.data.objects import RelikOutput
 #########################################################################
 
 if __name__ == '__main__':
-    relik = Relik.from_pretrained(model_name, device="cuda", top_k=10) # window_size="none", window_stride=None
+    relik = Relik.from_pretrained(model_name, device="cuda", top_k=10, window_size="none") # window_size="none", window_stride=None
     relik_out: RelikOutput = relik(text)
 
     print("=== Relik Output ===")
-    pp.pprint(relik_out.to_dict())
+    pp.pprint(relik_out)
+
+    # print(type(relik_out))
 
     model_name = model_name.replace('relik-ie/','')
     with open(f'output_{model_name}_{corpus_name}.json','w') as outfile:
