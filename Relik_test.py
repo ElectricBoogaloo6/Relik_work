@@ -47,7 +47,7 @@ from relik.inference.data.objects import RelikOutput
 #########################################################################
 
 if __name__ == '__main__':
-    relik = Relik.from_pretrained(model_name, device="cuda", top_k=10, window_size="none") # window_size="none", window_stride=None
+    relik = Relik.from_pretrained(model_name, device="cuda", top_k=10, window_size="none") # window_size="none", window_stride=None, window_size="sentence"
     relik_out: RelikOutput = relik(text)
 
     print("=== Relik Output ===")

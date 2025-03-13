@@ -236,15 +236,15 @@
         ],
         [
             192,
-            197,
-            "Janus",
-            "Janus"
-        ],
-        [
-            192,
             291,
             "Janus",
             "Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his"
+        ],
+        [
+            192,
+            197,
+            "Janus",
+            "Janus"
         ],
         [
             288,
@@ -322,6 +322,38 @@
     "triplets": [
         [
             [
+                192,
+                197,
+                "Janus",
+                "Janus"
+            ],
+            "named after",
+            [
+                630,
+                635,
+                "Janus",
+                "Janus"
+            ],
+            0.10999999940395355
+        ],
+        [
+            [
+                863,
+                868,
+                "Janus",
+                "Janus"
+            ],
+            "named after",
+            [
+                1019,
+                1024,
+                "Janus",
+                "Janus"
+            ],
+            0.2800000011920929
+        ],
+        [
+            [
                 991,
                 997,
                 "Rome",
@@ -335,6 +367,38 @@
                 "Greeks"
             ],
             0.7699999809265137
+        ],
+        [
+            [
+                991,
+                997,
+                "Rome",
+                "Greeks"
+            ],
+            "part of",
+            [
+                991,
+                997,
+                "Rome",
+                "Greeks"
+            ],
+            0.11999999731779099
+        ],
+        [
+            [
+                1019,
+                1024,
+                "Janus",
+                "Janus"
+            ],
+            "named after",
+            [
+                1019,
+                1024,
+                "Janus",
+                "Janus"
+            ],
+            0.18000000715255737
         ]
     ],
     "candidates": {
