@@ -1,0 +1,1078 @@
+{
+    "text": "In ancient Roman religion and myth, Janus is the god of beginnings and gates. He has a double nature and is usually depicted as having two faces, since he looks to the future and to the past. Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus had no specialized priest assigned to him, but the high priest himself carried out his ceremonies. Janus represented the middle ground between barbarism and civilization, rural and urban space, youth and adulthood. The ancient Greeks had no equivalent to Janus, whom the Romans claimed as distinctively their own.",
+    "tokens": [
+        "In",
+        "ancient",
+        "Roman",
+        "religion",
+        "and",
+        "myth",
+        ",",
+        "Janus",
+        "is",
+        "the",
+        "god",
+        "of",
+        "beginnings",
+        "and",
+        "gates",
+        ".",
+        "He",
+        "has",
+        "a",
+        "double",
+        "nature",
+        "and",
+        "is",
+        "usually",
+        "depicted",
+        "as",
+        "having",
+        "two",
+        "faces",
+        ",",
+        "since",
+        "he",
+        "looks",
+        "to",
+        "the",
+        "future",
+        "and",
+        "to",
+        "the",
+        "past",
+        ".",
+        "Janus",
+        "presided",
+        "over",
+        "the",
+        "beginning",
+        "and",
+        "ending",
+        "of",
+        "conflict",
+        ",",
+        "and",
+        "hence",
+        "war",
+        "and",
+        "peace",
+        ".",
+        "The",
+        "doors",
+        "of",
+        "his",
+        "temple",
+        "were",
+        "open",
+        "in",
+        "times",
+        "of",
+        "war",
+        "and",
+        "closed",
+        "during",
+        "peacetime",
+        ".",
+        "As",
+        "the",
+        "god",
+        "of",
+        "gates",
+        ",",
+        "he",
+        "was",
+        "also",
+        "associated",
+        "with",
+        "entering",
+        "and",
+        "exiting",
+        "the",
+        "doors",
+        "of",
+        "homes",
+        ".",
+        "Janus",
+        "frequently",
+        "symbolized",
+        "change",
+        "and",
+        "transitions",
+        ",",
+        "such",
+        "as",
+        "the",
+        "progress",
+        "from",
+        "one",
+        "condition",
+        "to",
+        "another",
+        ",",
+        "from",
+        "one",
+        "vision",
+        "to",
+        "another",
+        ",",
+        "and",
+        "the",
+        "growth",
+        "of",
+        "young",
+        "people",
+        "into",
+        "adulthood",
+        ".",
+        "Hence",
+        ",",
+        "Janus",
+        "was",
+        "worshipped",
+        "at",
+        "the",
+        "beginning",
+        "of",
+        "the",
+        "harvest",
+        "and",
+        "planting",
+        "times",
+        ",",
+        "as",
+        "well",
+        "as",
+        "at",
+        "marriages",
+        ",",
+        "deaths",
+        ",",
+        "and",
+        "other",
+        "beginnings",
+        ".",
+        "Janus",
+        "had",
+        "no",
+        "specialized",
+        "priest",
+        "assigned",
+        "to",
+        "him",
+        ",",
+        "but",
+        "the",
+        "high",
+        "priest",
+        "himself",
+        "carried",
+        "out",
+        "his",
+        "ceremonies",
+        ".",
+        "Janus",
+        "represented",
+        "the",
+        "middle",
+        "ground",
+        "between",
+        "barbarism",
+        "and",
+        "civilization",
+        ",",
+        "rural",
+        "and",
+        "urban",
+        "space",
+        ",",
+        "youth",
+        "and",
+        "adulthood",
+        ".",
+        "The",
+        "ancient",
+        "Greeks",
+        "had",
+        "no",
+        "equivalent",
+        "to",
+        "Janus",
+        ",",
+        "whom",
+        "the",
+        "Romans",
+        "claimed",
+        "as",
+        "distinctively",
+        "their",
+        "own",
+        "."
+    ],
+    "spans": [
+        [
+            3,
+            25,
+            "Religion in ancient Rome",
+            "ancient Roman religion"
+        ],
+        [
+            30,
+            34,
+            "Roman mythology",
+            "myth"
+        ],
+        [
+            36,
+            41,
+            "Janus",
+            "Janus"
+        ],
+        [
+            45,
+            76,
+            "Janus",
+            "the god of beginnings and gates"
+        ],
+        [
+            78,
+            80,
+            "Janus",
+            "He"
+        ],
+        [
+            135,
+            144,
+            "Janus",
+            "two faces"
+        ],
+        [
+            152,
+            154,
+            "Janus",
+            "he"
+        ],
+        [
+            192,
+            197,
+            "Janus",
+            "Janus"
+        ],
+        [
+            288,
+            291,
+            "Janus",
+            "his"
+        ],
+        [
+            357,
+            373,
+            "Janus",
+            "the god of gates"
+        ],
+        [
+            375,
+            377,
+            "Janus",
+            "he"
+        ],
+        [
+            444,
+            449,
+            "Janus",
+            "Janus"
+        ],
+        [
+            630,
+            635,
+            "Janus",
+            "Janus"
+        ],
+        [
+            758,
+            763,
+            "Janus",
+            "Janus"
+        ],
+        [
+            802,
+            805,
+            "Janus",
+            "him"
+        ],
+        [
+            847,
+            850,
+            "Janus",
+            "his"
+        ],
+        [
+            863,
+            868,
+            "Janus",
+            "Janus"
+        ],
+        [
+            983,
+            997,
+            "--NME--",
+            "ancient Greeks"
+        ],
+        [
+            1019,
+            1024,
+            "Janus",
+            "Janus"
+        ]
+    ],
+    "triplets": [
+        [
+            [
+                36,
+                41,
+                "Janus",
+                "Janus"
+            ],
+            "part of",
+            [
+                3,
+                25,
+                "Religion in ancient Rome",
+                "ancient Roman religion"
+            ],
+            0.8199999928474426
+        ],
+        [
+            [
+                36,
+                41,
+                "Janus",
+                "Janus"
+            ],
+            "part of",
+            [
+                30,
+                34,
+                "Roman mythology",
+                "myth"
+            ],
+            0.12999999523162842
+        ],
+        [
+            [
+                45,
+                76,
+                "Janus",
+                "the god of beginnings and gates"
+            ],
+            "part of",
+            [
+                3,
+                25,
+                "Religion in ancient Rome",
+                "ancient Roman religion"
+            ],
+            0.9800000190734863
+        ],
+        [
+            [
+                45,
+                76,
+                "Janus",
+                "the god of beginnings and gates"
+            ],
+            "part of",
+            [
+                30,
+                34,
+                "Roman mythology",
+                "myth"
+            ],
+            0.5400000214576721
+        ]
+    ],
+    "candidates": {
+        "span": [
+            [
+                [
+                    {
+                        "text": "Religion in ancient Rome",
+                        "id": 2217211,
+                        "metadata": {
+                            "wikidata": "Q337547",
+                            "definition": "Religion in ancient Rome consisted of varying imperial and provincial religious practices, which were followed both by the people of Rome as well as those who were brought under its rule. The Romans thought of themselves as highly religious, and attributed their success as a world power to their collective piety (la pietas) in maintaining good relations with the gods. Their polytheistic religion is"
+                        }
+                    },
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Roman mythology",
+                        "id": 4430801,
+                        "metadata": {
+                            "wikidata": "Q122173",
+                            "definition": "Roman mythology is the body of myths of ancient Rome as represented in the literature and visual arts of the Romans. One of a wide variety of genres of Roman folklore, Roman mythology may also refer to the modern study of these representations, and to the subject matter as represented in the literature and art of other cultures in any period. Roman mythology draws"
+                        }
+                    },
+                    {
+                        "text": "Peace",
+                        "id": 2292988,
+                        "metadata": {
+                            "wikidata": "Q454",
+                            "definition": "Peace means societal friendship and harmony in the absence of hostility and violence. In a social sense, peace is commonly used to mean a lack of conflict (such as war) and freedom from fear of violence between individuals or groups. \"Psychological peace\" (such as peaceful thinking and emotions) is less well-defined, yet perhaps a necessary precursor to establishing \"behavioural peace\". Peaceful behaviour sometimes results"
+                        }
+                    },
+                    {
+                        "text": "Ancient Greek religion",
+                        "id": 2332503,
+                        "metadata": {
+                            "wikidata": "Q855270",
+                            "definition": "Religious practices in ancient Greece encompassed a collection of beliefs, rituals, and mythology, in the form of both popular public religion and cult practices. The application of the modern concept of \"religion\" to ancient cultures has been questioned as anachronistic. The ancient Greeks did not have a word for 'religion' in the modern sense. Likewise, no Greek writer known to us classifies either the"
+                        }
+                    },
+                    {
+                        "text": "Ancient Egyptian religion",
+                        "id": 1886972,
+                        "metadata": {
+                            "wikidata": "Q447131",
+                            "definition": "Ancient Egyptian religion was a complex system of polytheistic beliefs and rituals that formed an integral part of ancient Egyptian culture. It centered on the Egyptians' interactions with many deities believed to be present and in control of the world. About 1500 deities are known. Rituals such as prayer and offerings were provided to the gods to gain their favor. Formal religious practice centered"
+                        }
+                    },
+                    {
+                        "text": "Religion",
+                        "id": 2293311,
+                        "metadata": {
+                            "wikidata": "Q9174",
+                            "definition": "Religion is a range of social-cultural systems, including designated behaviors and practices, morals, beliefs, worldviews, texts, sanctified places, prophecies, ethics, or organizations, that generally relate humanity to supernatural, transcendental, and spiritual elements\u2014although there is no scholarly consensus over what precisely constitutes a religion. Different religions may or may not contain various elements ranging from the divine, sacredness, faith, and a supernatural being or beings."
+                        }
+                    },
+                    {
+                        "text": "Destiny",
+                        "id": 1874631,
+                        "metadata": {
+                            "wikidata": "Q216774",
+                            "definition": "Destiny, sometimes also called fate (la fatum decree, prediction, destiny, fate), is a predetermined course of events. It may be conceived as a predetermined future, whether in general or of an individual. Fate Although often used interchangeably, the words and destiny have distinct connotations. January 2024 Traditional usage defines fate as a power or agency that predetermines and orders the course of events. Fate"
+                        }
+                    },
+                    {
+                        "text": "Ancient Rome",
+                        "id": 1824121,
+                        "metadata": {
+                            "wikidata": "Q1747689",
+                            "definition": "In modern historiography, ancient Rome encompasses the founding of the Italian city of Rome in the 8th century BC, the Roman Kingdom (753\u2013509 BC), Roman Republic (509\u201327 BC), Roman Empire (27 BC\u2013 395 AD), and the collapse of the Western Roman Empire in the 5th century AD. Ancient Rome began as an Italic settlement, traditionally dated to 753 BC, beside the River Tiber in"
+                        }
+                    },
+                    {
+                        "text": "War",
+                        "id": 2263368,
+                        "metadata": {
+                            "wikidata": "Q198",
+                            "definition": "War is an intense armed conflict between states, governments, societies, or paramilitary groups such as mercenaries, insurgents, and militias. It is generally characterized by extreme violence, destruction, and mortality, using regular or irregular military forces. Warfare refers to the common activities and characteristics of types of war, or of wars in general. Total war is warfare that is not restricted to purely legitimate military"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Janti",
+                        "id": 4858278,
+                        "metadata": {
+                            "wikidata": "Q970003",
+                            "definition": "Jante is a village development committee in Udayapur District in the Sagarmatha Zone of south-eastern Nepal. At the time of the 1991 Nepal census it had a population of 2142 people living in 385 individual households."
+                        }
+                    },
+                    {
+                        "text": "Peace and Harvest",
+                        "id": 5367612,
+                        "metadata": {
+                            "wikidata": "Q7157483",
+                            "definition": "Peace and Harvest are two 8 ft8 ft m 1 us on tall limestone statues in downtown Peoria, Illinois, United States. The male and female figures represent peace and harvest respectively. The statues were sculpted by Chicagoan Mary Andersen Clark (born in 1910 and formerly of Peoria) as part of the Works Progress Administration's Federal Art Project, and were added to the National Register"
+                        }
+                    },
+                    {
+                        "text": "Marriage in ancient Greece",
+                        "id": 1473944,
+                        "metadata": {
+                            "wikidata": "Q4752855",
+                            "definition": "Marriage in ancient Greece had less of a basis in personal relationships and more in social responsibility, however it is important to note; the available historical records on the subject focus exclusively on Athens or Sparta and primarily on the aristocratic class. According to these records, the goal and focus of all marriages was intended to be reproduction, making marriage an issue of public"
+                        }
+                    },
+                    {
+                        "text": "Harvest of Time",
+                        "id": 2801414,
+                        "metadata": {
+                            "wikidata": "Q16385936",
+                            "definition": "Doctor Who: Harvest of Time is a Third Doctor novel by Alastair Reynolds. It features the Third Doctor (as portrayed by Jon Pertwee), Jo Grant, the Master (as portrayed by Roger Delgado), Brigadier Lethbridge-Stewart, and other familiar characters from the Third Doctor era of Doctor Who. Harvest of Time, a BBC Books original novel, was published in June 2013. It was simultaneously released as"
+                        }
+                    },
+                    {
+                        "text": "Samanera",
+                        "id": 2050925,
+                        "metadata": {
+                            "wikidata": "Q1051498",
+                            "definition": "A s\u0101ma\u1e47era (Pali), \u0936\u094d\u0930\u093e\u092e\u0923\u0947\u0930 (\u015br\u0101ma\u1e47era), is a novice male monastic in a Buddhist context. A female novice is a \u015br\u0101ma\u1e47er\u012b or \u015br\u0101ma\u1e47erik\u0101 (Sanskrit; P\u0101li: s\u0101ma\u1e47er\u012b). Etymology The s\u0101ma\u1e47era is a Pali language diminutive equivalent to the Sanskrit term \u015br\u0101ma\u1e47era, which indicates an ascetic practitioner. Therefore, s\u0101ma\u1e47era might be said to mean \"small or young renunciate\". In some South and Southeast Asian Buddhist traditions, the"
+                        }
+                    },
+                    {
+                        "text": "Season of the Harvest",
+                        "id": 2283762,
+                        "metadata": {
+                            "wikidata": "Q1248622",
+                            "definition": "The Season of the Harvest or Low Water was the third and final season of the lunar and civil Egyptian calendars. It fell after the Season of the Emergence (egy Prt) and before the spiritually dangerous intercalary month (egy \u1e24ryw Rnpt), after which the New Year's festivities began the Season of the Inundation (\ua722\u1e2bt). In the Coptic and Egyptian calendars this season begins at"
+                        }
+                    },
+                    {
+                        "text": "Marriage in ancient Rome",
+                        "id": 2220249,
+                        "metadata": {
+                            "wikidata": "Q1299269",
+                            "definition": "Marriage in ancient Rome (la conubium) was a fundamental institution of society and was used by Romans primarily as a tool for interfamilial alliances. Roman marriage was a monogamous institution: Roman citizens could have only one spouse at a time but were allowed to divorce and remarry. This form of monogamy in Greco-Roman civilization may have arisen from the relative egalitarianism of democratic and"
+                        }
+                    },
+                    {
+                        "text": "Qu\u00e9date conmigo",
+                        "id": 3029427,
+                        "metadata": {
+                            "wikidata": "Q1028150",
+                            "definition": "\"Qu\u00e9date conmigo\" (, \"en Stay with me\") is a song recorded by Spanish singer Pastora Soler with music composed by , Tony S\u00e1nchez-Ohlsson, and Erik Bernholm and lyrics written by S\u00e1nchez-Ohlsson. It Spain represented Spain in the Eurovision Song Contest 2012, held in Baku. Background Conception \"Qu\u00e9date conmigo\" was composed by , Tony S\u00e1nchez-Ohlsson, and Erik Bernholm, with lyrics by S\u00e1nchez-Ohlsson. Selection On 21"
+                        }
+                    },
+                    {
+                        "text": "Dhanera",
+                        "id": 5898428,
+                        "metadata": {
+                            "wikidata": "Q1266017",
+                            "definition": "Dhanera is a city in Banaskantha district in the northern part of the state of Gujarat, India. Geography Dhanera is located at 24.52 N 72.02 E . It has an average elevation of 128 m128 m ft. Demographics 2001 Indian census, Dhanera had a population of 22,183. Males constitute 52% of the population and females 48%. Dhanera has an average literacy rate of 55%,"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Marriage in ancient Greece",
+                        "id": 1473944,
+                        "metadata": {
+                            "wikidata": "Q4752855",
+                            "definition": "Marriage in ancient Greece had less of a basis in personal relationships and more in social responsibility, however it is important to note; the available historical records on the subject focus exclusively on Athens or Sparta and primarily on the aristocratic class. According to these records, the goal and focus of all marriages was intended to be reproduction, making marriage an issue of public"
+                        }
+                    },
+                    {
+                        "text": "Lingam",
+                        "id": 3350114,
+                        "metadata": {
+                            "wikidata": "Q468895",
+                            "definition": "A lingam (\u0932\u093f\u0919\u094d\u0917 li\u1e45ga, lit. \"sign, symbol or mark\"), sometimes referred to as linga or Shiva linga, is an abstract or aniconic representation of the Hindu god Shiva in Shaivism. It is typically the primary murti or devotional image in Hindu temples dedicated to Shiva, also found in smaller shrines, or as self-manifested natural objects. It is often represented within a disc-shaped platform, the"
+                        }
+                    },
+                    {
+                        "text": "Janja",
+                        "id": 5368205,
+                        "metadata": {
+                            "wikidata": "Q2744414",
+                            "definition": "Janja (Serbian Cyrillic: \u0408\u0430\u045a\u0430) is a town in Bijeljina, Republika Srpska, Bosnia and Herzegovina. It is known as a place where the confluence of the rivers Janja and Drina is situated. It is the only Bosniak community in the municipality and consists of many displaced persons from other parts of Bosnia and Herzegovina. About Janja Janja is a small town near Bijeljina in northeast"
+                        }
+                    },
+                    {
+                        "text": "Margariti",
+                        "id": 6237819,
+                        "metadata": {
+                            "wikidata": "Q21498755",
+                            "definition": "Margariti (\u039c\u03b1\u03c1\u03b3\u03b1\u03c1\u03af\u03c4\u03b9) is a village and a former municipality in Thesprotia, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Igoumenitsa, of which it is a municipal unit. The municipal unit has an area of 149.223 km2. Population 1,931 (2021). Name The toponym Margariti (\u039c\u03b1\u03c1\u03b3\u03b1\u03c1\u03af\u03c4\u03b9) is thought to come from Margaritos, a pirate of the Emirate of Sicily to"
+                        }
+                    },
+                    {
+                        "text": "Janti",
+                        "id": 4858278,
+                        "metadata": {
+                            "wikidata": "Q970003",
+                            "definition": "Jante is a village development committee in Udayapur District in the Sagarmatha Zone of south-eastern Nepal. At the time of the 1991 Nepal census it had a population of 2142 people living in 385 individual households."
+                        }
+                    },
+                    {
+                        "text": "Season of the Harvest",
+                        "id": 2283762,
+                        "metadata": {
+                            "wikidata": "Q1248622",
+                            "definition": "The Season of the Harvest or Low Water was the third and final season of the lunar and civil Egyptian calendars. It fell after the Season of the Emergence (egy Prt) and before the spiritually dangerous intercalary month (egy \u1e24ryw Rnpt), after which the New Year's festivities began the Season of the Inundation (\ua722\u1e2bt). In the Coptic and Egyptian calendars this season begins at"
+                        }
+                    },
+                    {
+                        "text": "Ceremonies of ancient Greece",
+                        "id": 901360,
+                        "metadata": {
+                            "wikidata": "Q60749691",
+                            "definition": "Ceremonies of Ancient Greece encompasses those practices of a formal religious nature celebrating particular moments in the life of the community or individual in Greece from the period of the Greek dark ages (c. 1000 B.C) to the middle ages (c. 500 A.D). Ancient Greek religion was not standardised and had no formalised canon of religious texts, nor single priestly hierarchy, and practices varied"
+                        }
+                    },
+                    {
+                        "text": "J\u0101\u0146i",
+                        "id": 2297811,
+                        "metadata": {
+                            "wikidata": "Q6672817",
+                            "definition": "J\u0101\u0146i () is an annual Latvian festival celebrating the summer solstice. Although, astronomically the solstice falls on the 21st or 22nd of June, the public holidays\u2014L\u012bgo Day and J\u0101\u0146i Day\u2014are on the 23rd and 24th of June. The day before J\u0101\u0146i is known as L\u012bgosv\u0113tki, L\u012bgovakars or simply known as L\u012bgo. On J\u0101\u0146i, people travel from the city into the countryside to gather and"
+                        }
+                    },
+                    {
+                        "text": "High priest",
+                        "id": 2099742,
+                        "metadata": {
+                            "wikidata": "Q3114821",
+                            "definition": "The term \"high priest\" usually refers either to an individual who holds the office of ruler-priest, or to one who is the head of a religious organisation. Ancient Egypt December 2021 In ancient Egypt, a high priest was the chief priest of any of the many gods revered by the Egyptians. While not regarded as a dynasty, the High Priest of Amun at Thebes,"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Margariti",
+                        "id": 6237819,
+                        "metadata": {
+                            "wikidata": "Q21498755",
+                            "definition": "Margariti (\u039c\u03b1\u03c1\u03b3\u03b1\u03c1\u03af\u03c4\u03b9) is a village and a former municipality in Thesprotia, Epirus, Greece. Since the 2011 local government reform it is part of the municipality Igoumenitsa, of which it is a municipal unit. The municipal unit has an area of 149.223 km2. Population 1,931 (2021). Name The toponym Margariti (\u039c\u03b1\u03c1\u03b3\u03b1\u03c1\u03af\u03c4\u03b9) is thought to come from Margaritos, a pirate of the Emirate of Sicily to"
+                        }
+                    },
+                    {
+                        "text": "Weddings in ancient Rome",
+                        "id": 277080,
+                        "metadata": {
+                            "wikidata": "Q104867898",
+                            "definition": "Weddings in ancient Rome were a sacred ritual involving many religious practices. In order for the wedding to take place the bride and the groom or their fathers needed to consent to the wedding. Generally, the wedding would take place in June due to the god Juno. Weddings would never take place on days that were considered unlucky. During the wedding the groom would"
+                        }
+                    },
+                    {
+                        "text": "Religion in ancient Rome",
+                        "id": 2217211,
+                        "metadata": {
+                            "wikidata": "Q337547",
+                            "definition": "Religion in ancient Rome consisted of varying imperial and provincial religious practices, which were followed both by the people of Rome as well as those who were brought under its rule. The Romans thought of themselves as highly religious, and attributed their success as a world power to their collective piety (la pietas) in maintaining good relations with the gods. Their polytheistic religion is"
+                        }
+                    },
+                    {
+                        "text": "Marriage in ancient Rome",
+                        "id": 2220249,
+                        "metadata": {
+                            "wikidata": "Q1299269",
+                            "definition": "Marriage in ancient Rome (la conubium) was a fundamental institution of society and was used by Romans primarily as a tool for interfamilial alliances. Roman marriage was a monogamous institution: Roman citizens could have only one spouse at a time but were allowed to divorce and remarry. This form of monogamy in Greco-Roman civilization may have arisen from the relative egalitarianism of democratic and"
+                        }
+                    },
+                    {
+                        "text": "Janti",
+                        "id": 4858278,
+                        "metadata": {
+                            "wikidata": "Q970003",
+                            "definition": "Jante is a village development committee in Udayapur District in the Sagarmatha Zone of south-eastern Nepal. At the time of the 1991 Nepal census it had a population of 2142 people living in 385 individual households."
+                        }
+                    },
+                    {
+                        "text": "Roman timekeeping",
+                        "id": 3034805,
+                        "metadata": {
+                            "wikidata": "Q7362341",
+                            "definition": "In Roman timekeeping, a day was divided into periods according to the available technology. Initially, the day was divided into two parts: the ante meridiem (before noon) and the post meridiem (after noon). With the advent of the sundial circa 263 BC, the period of the natural day from sunrise to sunset was divided into twelve hours. Variation An hour was defined as one"
+                        }
+                    },
+                    {
+                        "text": "Local government (ancient Roman)",
+                        "id": 6193608,
+                        "metadata": {
+                            "wikidata": "Q6664378",
+                            "definition": "The Romans used provincial and local governments to govern conquered territories without having to rule them directly. Although Rome ruled a vast empire, it needed strikingly few imperial officials to run it. This relatively light ruling administrative overview was made possible by the tendency to leave to local government much administrative business and to private enterprise many of the tasks associated with governments in"
+                        }
+                    },
+                    {
+                        "text": "Ancient Rome",
+                        "id": 1824121,
+                        "metadata": {
+                            "wikidata": "Q1747689",
+                            "definition": "In modern historiography, ancient Rome encompasses the founding of the Italian city of Rome in the 8th century BC, the Roman Kingdom (753\u2013509 BC), Roman Republic (509\u201327 BC), Roman Empire (27 BC\u2013 395 AD), and the collapse of the Western Roman Empire in the 5th century AD. Ancient Rome began as an Italic settlement, traditionally dated to 753 BC, beside the River Tiber in"
+                        }
+                    },
+                    {
+                        "text": "Rome",
+                        "id": 2293332,
+                        "metadata": {
+                            "wikidata": "Q220",
+                            "definition": "Rome (Italian and Latin: Roma, ) is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome Capital, and a special comune (municipality) named Comune di Roma Capitale. With 2,860,009 residents in 1285 km21285 km2 mi2 1, Rome is the country's most populated comune and the third most populous city in the"
+                        }
+                    }
+                ]
+            ]
+        ],
+        "triplet": [
+            [
+                [
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "significant event",
+                        "id": 46,
+                        "metadata": {
+                            "description": "significant or notable events associated with the subject",
+                            "property": "P793"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "ethnic group",
+                        "id": 78,
+                        "metadata": {
+                            "description": "subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)",
+                            "property": "P172"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "named after",
+                        "id": 45,
+                        "metadata": {
+                            "description": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one",
+                            "property": "P138"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    },
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    },
+                    {
+                        "text": "country",
+                        "id": 0,
+                        "metadata": {
+                            "description": "sovereign state that this item is in (not to be used for human beings)",
+                            "property": "P17"
+                        }
+                    },
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "ethnic group",
+                        "id": 78,
+                        "metadata": {
+                            "description": "subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)",
+                            "property": "P172"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "country",
+                        "id": 0,
+                        "metadata": {
+                            "description": "sovereign state that this item is in (not to be used for human beings)",
+                            "property": "P17"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "named after",
+                        "id": 45,
+                        "metadata": {
+                            "description": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one",
+                            "property": "P138"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    },
+                    {
+                        "text": "languages spoken, written or signed",
+                        "id": 51,
+                        "metadata": {
+                            "description": "language(s) that a person or a people speaks, writes or signs, including the native language(s)",
+                            "property": "P1412"
+                        }
+                    },
+                    {
+                        "text": "place of birth",
+                        "id": 39,
+                        "metadata": {
+                            "description": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",
+                            "property": "P19"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    }
+                ]
+            ]
+        ]
+    }
+}

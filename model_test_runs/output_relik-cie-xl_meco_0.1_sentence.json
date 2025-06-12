@@ -1,0 +1,1991 @@
+{
+    "text": "In ancient Roman religion and myth, Janus is the god of beginnings and gates. He has a double nature and is usually depicted as having two faces, since he looks to the future and to the past. Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus had no specialized priest assigned to him, but the high priest himself carried out his ceremonies. Janus represented the middle ground between barbarism and civilization, rural and urban space, youth and adulthood. The ancient Greeks had no equivalent to Janus, whom the Romans claimed as distinctively their own.",
+    "tokens": [
+        "In",
+        "ancient",
+        "Roman",
+        "religion",
+        "and",
+        "myth",
+        ",",
+        "Janus",
+        "is",
+        "the",
+        "god",
+        "of",
+        "beginnings",
+        "and",
+        "gates",
+        ".",
+        "He",
+        "has",
+        "a",
+        "double",
+        "nature",
+        "and",
+        "is",
+        "usually",
+        "depicted",
+        "as",
+        "having",
+        "two",
+        "faces",
+        ",",
+        "since",
+        "he",
+        "looks",
+        "to",
+        "the",
+        "future",
+        "and",
+        "to",
+        "the",
+        "past",
+        ".",
+        "Janus",
+        "presided",
+        "over",
+        "the",
+        "beginning",
+        "and",
+        "ending",
+        "of",
+        "conflict",
+        ",",
+        "and",
+        "hence",
+        "war",
+        "and",
+        "peace",
+        ".",
+        "The",
+        "doors",
+        "of",
+        "his",
+        "temple",
+        "were",
+        "open",
+        "in",
+        "times",
+        "of",
+        "war",
+        "and",
+        "closed",
+        "during",
+        "peacetime",
+        ".",
+        "As",
+        "the",
+        "god",
+        "of",
+        "gates",
+        ",",
+        "he",
+        "was",
+        "also",
+        "associated",
+        "with",
+        "entering",
+        "and",
+        "exiting",
+        "the",
+        "doors",
+        "of",
+        "homes",
+        ".",
+        "Janus",
+        "frequently",
+        "symbolized",
+        "change",
+        "and",
+        "transitions",
+        ",",
+        "such",
+        "as",
+        "the",
+        "progress",
+        "from",
+        "one",
+        "condition",
+        "to",
+        "another",
+        ",",
+        "from",
+        "one",
+        "vision",
+        "to",
+        "another",
+        ",",
+        "and",
+        "the",
+        "growth",
+        "of",
+        "young",
+        "people",
+        "into",
+        "adulthood",
+        ".",
+        "Hence",
+        ",",
+        "Janus",
+        "was",
+        "worshipped",
+        "at",
+        "the",
+        "beginning",
+        "of",
+        "the",
+        "harvest",
+        "and",
+        "planting",
+        "times",
+        ",",
+        "as",
+        "well",
+        "as",
+        "at",
+        "marriages",
+        ",",
+        "deaths",
+        ",",
+        "and",
+        "other",
+        "beginnings",
+        ".",
+        "Janus",
+        "had",
+        "no",
+        "specialized",
+        "priest",
+        "assigned",
+        "to",
+        "him",
+        ",",
+        "but",
+        "the",
+        "high",
+        "priest",
+        "himself",
+        "carried",
+        "out",
+        "his",
+        "ceremonies",
+        ".",
+        "Janus",
+        "represented",
+        "the",
+        "middle",
+        "ground",
+        "between",
+        "barbarism",
+        "and",
+        "civilization",
+        ",",
+        "rural",
+        "and",
+        "urban",
+        "space",
+        ",",
+        "youth",
+        "and",
+        "adulthood",
+        ".",
+        "The",
+        "ancient",
+        "Greeks",
+        "had",
+        "no",
+        "equivalent",
+        "to",
+        "Janus",
+        ",",
+        "whom",
+        "the",
+        "Romans",
+        "claimed",
+        "as",
+        "distinctively",
+        "their",
+        "own",
+        "."
+    ],
+    "spans": [
+        [
+            3,
+            25,
+            "Religion in ancient Rome",
+            "ancient Roman religion"
+        ],
+        [
+            30,
+            34,
+            "Roman mythology",
+            "myth"
+        ],
+        [
+            36,
+            41,
+            "Janus",
+            "Janus"
+        ],
+        [
+            78,
+            80,
+            "Azazel",
+            "He"
+        ],
+        [
+            152,
+            154,
+            "Azazel",
+            "he"
+        ],
+        [
+            192,
+            197,
+            "Janus",
+            "Janus"
+        ],
+        [
+            288,
+            291,
+            "The Emperor Augustus Closes the Doors of the Temple of Janus",
+            "his"
+        ],
+        [
+            357,
+            373,
+            "Jeker",
+            "the god of gates"
+        ],
+        [
+            375,
+            377,
+            "Jeker",
+            "he"
+        ],
+        [
+            444,
+            449,
+            "Janus",
+            "Janus"
+        ],
+        [
+            630,
+            635,
+            "Janus",
+            "Janus"
+        ],
+        [
+            758,
+            763,
+            "Janus",
+            "Janus"
+        ],
+        [
+            802,
+            805,
+            "Janus",
+            "him"
+        ],
+        [
+            847,
+            850,
+            "Janus",
+            "his"
+        ],
+        [
+            863,
+            868,
+            "Janus",
+            "Janus"
+        ],
+        [
+            907,
+            933,
+            "Civilization and barbarism",
+            "barbarism and civilization"
+        ],
+        [
+            991,
+            997,
+            "Ancient Greece",
+            "Greeks"
+        ],
+        [
+            1019,
+            1024,
+            "Janus",
+            "Janus"
+        ]
+    ],
+    "triplets": [],
+    "candidates": {
+        "span": [
+            [
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Religion in ancient Rome",
+                        "id": 2217211,
+                        "metadata": {
+                            "wikidata": "Q337547",
+                            "definition": "Religion in ancient Rome consisted of varying imperial and provincial religious practices, which were followed both by the people of Rome as well as those who were brought under its rule. The Romans thought of themselves as highly religious, and attributed their success as a world power to their collective piety (la pietas) in maintaining good relations with the gods. Their polytheistic religion is"
+                        }
+                    },
+                    {
+                        "text": "Roman mythology",
+                        "id": 4430801,
+                        "metadata": {
+                            "wikidata": "Q122173",
+                            "definition": "Roman mythology is the body of myths of ancient Rome as represented in the literature and visual arts of the Romans. One of a wide variety of genres of Roman folklore, Roman mythology may also refer to the modern study of these representations, and to the subject matter as represented in the literature and art of other cultures in any period. Roman mythology draws"
+                        }
+                    },
+                    {
+                        "text": "Ancient Rome",
+                        "id": 1824121,
+                        "metadata": {
+                            "wikidata": "Q1747689",
+                            "definition": "In modern historiography, ancient Rome encompasses the founding of the Italian city of Rome in the 8th century BC, the Roman Kingdom (753\u2013509 BC), Roman Republic (509\u201327 BC), Roman Empire (27 BC\u2013 395 AD), and the collapse of the Western Roman Empire in the 5th century AD. Ancient Rome began as an Italic settlement, traditionally dated to 753 BC, beside the River Tiber in"
+                        }
+                    },
+                    {
+                        "text": "Ancient Greek religion",
+                        "id": 2332503,
+                        "metadata": {
+                            "wikidata": "Q855270",
+                            "definition": "Religious practices in ancient Greece encompassed a collection of beliefs, rituals, and mythology, in the form of both popular public religion and cult practices. The application of the modern concept of \"religion\" to ancient cultures has been questioned as anachronistic. The ancient Greeks did not have a word for 'religion' in the modern sense. Likewise, no Greek writer known to us classifies either the"
+                        }
+                    },
+                    {
+                        "text": "Ancient Egyptian religion",
+                        "id": 1886972,
+                        "metadata": {
+                            "wikidata": "Q447131",
+                            "definition": "Ancient Egyptian religion was a complex system of polytheistic beliefs and rituals that formed an integral part of ancient Egyptian culture. It centered on the Egyptians' interactions with many deities believed to be present and in control of the world. About 1500 deities are known. Rituals such as prayer and offerings were provided to the gods to gain their favor. Formal religious practice centered"
+                        }
+                    },
+                    {
+                        "text": "Temple of Janus (Roman Forum)",
+                        "id": 5064581,
+                        "metadata": {
+                            "wikidata": "Q352799",
+                            "definition": "The Temple of Janus stood in the Roman Forum near the Basilica Aemilia, along the Argiletum. It was a small temple with a statue of Janus, the two-faced god of boundaries and beginnings inside. Its doors were known as the \"Gates of Janus\", which were closed in times of peace and opened in times of war. There are many theories about its original purpose;"
+                        }
+                    },
+                    {
+                        "text": "Januarius and Pelagia",
+                        "id": 3139321,
+                        "metadata": {
+                            "wikidata": "Q24932371",
+                            "definition": "Januarius and Pelagia (d. died no AD 320) were joint Christian martyrs and saints recorded in the Jerusalem Martyrology. They were beheaded or racked and torn with iron claws and pieces of earthware at Nicopolis in Armenia during the reign of the Roman emperor Licinius. Their feast day observed on July 11. __NOTOC__ They are possibly to be considered identical with SS Januarius and"
+                        }
+                    },
+                    {
+                        "text": "Janus, King of Cyprus",
+                        "id": 1746003,
+                        "metadata": {
+                            "wikidata": "Q878345",
+                            "definition": "Janus (1375 \u2013 29 June 1432) was King of Cyprus and titular King of Armenian Cilicia and Jerusalem from 1398 to 1432. Early life Janus was born in Genoa, where his father, James I of Cyprus, was a captive. His mother, Helvis of Brunswick-Grubenhagen, named him in honor of the god Janus, the founder of Genoa according to mythological tradition. When his father was"
+                        }
+                    },
+                    {
+                        "text": "Janus: A Summing Up",
+                        "id": 1881210,
+                        "metadata": {
+                            "wikidata": "Q6155927",
+                            "definition": "Janus: A Summing Up is a 1978 book by Arthur Koestler, in which the author develops his philosophical idea of the holarchy. First introduced in Koestler's 1967 book, The Ghost in the Machine, the holarchy provides a coherent way of organizing knowledge and nature all together. The Holarchy The holarchy concept states that everything is composed of holons, which are simultaneously parts and wholes."
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Two-Face",
+                        "id": 1679337,
+                        "metadata": {
+                            "wikidata": "Q295599",
+                            "definition": "Two-Face (Harvey Dent) is a supervillain appearing in comic books published by DC Comics, commonly as an adversary of the superhero Batman. The character was created by Bob Kane and first appeared in Detective Comics #66 (August 1942). As one of Batman's most enduring enemies, Two-Face belongs to the collective of adversaries that make up Batman's rogues gallery. Once a bright and upstanding district"
+                        }
+                    },
+                    {
+                        "text": "Trinity (Past, Present and Future)",
+                        "id": 5976685,
+                        "metadata": {
+                            "wikidata": "Q427481",
+                            "definition": "Trinity (Past, Present and Future) is the third studio album by American hip hop group Slum Village. It was released on August 13, 2002 via Capitol Records. Recording sessions took place at RJ Rice Studios in Farmington Hills, Studio A in Dearborn Heights, and The Studio in Philadelphia. Production was handled by T3, Waajeed, J Dilla, Karriem Riggins, Young RJ, Black Milk, Ess Man,"
+                        }
+                    },
+                    {
+                        "text": "Past",
+                        "id": 2093922,
+                        "metadata": {
+                            "wikidata": "Q192630",
+                            "definition": "The past is the set of all events that occurred before a given point in time. The past is contrasted with and defined by the present and the future. The concept of the past is derived from the linear fashion in which human observers experience time, and is accessed through memory and recollection. In addition, human beings have recorded the past since the advent"
+                        }
+                    },
+                    {
+                        "text": "One-Eye, Two-Eyes, and Three-Eyes",
+                        "id": 5408538,
+                        "metadata": {
+                            "wikidata": "Q318740",
+                            "definition": "\"One-Eye, Two-Eyes, and Three-Eyes\" is a German fairy tale collected by the Brothers Grimm, tale number 130. Andrew Lang included it, as \"Little One-eye, Little Two-eyes, and Little Three-eyes\", in The Green Fairy Book. It is Aarne-Thompson type 511. It is an anomalous fairy tale, in that the protagonist is neither the youngest nor an only child, but the middle of three. Synopsis A"
+                        }
+                    },
+                    {
+                        "text": "Double Face",
+                        "id": 5693173,
+                        "metadata": {
+                            "wikidata": "Q323583",
+                            "definition": "Double Face (A doppia faccia, Das Gesicht im Dunkeln literal translation The Face in the Dark) is a 1969 thriller film directed by Riccardo Freda and starring Klaus Kinski, Christiane Kr\u00fcger and Annabella Incontrera. It is part of the series of Edgar Wallace adaptations made by Rialto Film. Plot A businessman named John Alexander learns that his wealthy wife Helen has died in a"
+                        }
+                    },
+                    {
+                        "text": "Arion (character)",
+                        "id": 2026076,
+                        "metadata": {
+                            "wikidata": "Q4790754",
+                            "definition": "Ahri'ahn (more commonly referred to as Arion) is a fictional sword and sorcery superhero published by American company DC Comics. He debuted in Warlord (vol. 1) #55 (March 1982), and was created by Paul Kupperberg and Jan Duursema. A powerful, immortal wizard from ancient Atlantis centuries before it sunk, the character originally starred in his own series taking place outside the main continuity of"
+                        }
+                    },
+                    {
+                        "text": "Double negation",
+                        "id": 2349389,
+                        "metadata": {
+                            "wikidata": "Q5300067",
+                            "definition": "In propositional logic, double negation is the theorem that states that \"If a statement is true, then it is not the case that the statement is not true.\" This is expressed by saying that a proposition A is logically equivalent to not (not-A), or by the formula A \u2261 ~(~A) where the sign \u2261 expresses logical equivalence and the sign ~ expresses negation. Like"
+                        }
+                    },
+                    {
+                        "text": "Fate motif",
+                        "id": 2508166,
+                        "metadata": {
+                            "wikidata": "Q5437371",
+                            "definition": "Fate motif refers to a musical motif in a number of different works: Symphony No. 5 (Beethoven) Carmen (opera by Bizet) Symphony No. 6 (Mahler) Pelleas und Melisande (Schoenberg) Symphony No. 8 (Shostakovich) Oboe Concerto (Strauss) Symphony No. 4 (Tchaikovsky) La forza del destino (opera by Verdi) Die Walk\u00fcre (opera by Richard Wagner) Classical music"
+                        }
+                    },
+                    {
+                        "text": "Azazel",
+                        "id": 2268439,
+                        "metadata": {
+                            "wikidata": "Q721135",
+                            "definition": "In the Hebrew Bible, the name Azazel (; \u05e2\u05b2\u05d6\u05b8\u05d0\u05d6\u05b5\u05dc \u02bf\u0102z\u0101\u02bez\u0113l; \u0639\u0632\u0627\u0632\u064a\u0644 \u02bfAz\u0101z\u012bl) represents a desolate place where a scapegoat bearing the sins of the Jews was sent during Yom Kippur. During the late Second Temple period (after the closure of the Hebrew Bible canon), Azazel came to be viewed as a fallen angel responsible for introducing humans to forbidden knowledge, as described in the"
+                        }
+                    },
+                    {
+                        "text": "List of Ushio & Tora characters",
+                        "id": 1182508,
+                        "metadata": {
+                            "wikidata": "Q17194107",
+                            "definition": "This is a list of characters for the manga Ushio & Tora written and illustrated by Kazuhiro Fujita. Main characters Ushio Aotsuki \u84bc\u6708 \u6f6e Aotsuki Ushio Nozomu Sasaki (OVA), Tasuku Hatanaka (anime), Kazumi Togashi (young, anime) Randy Sparks (OVA), David Matranga (anime) The son of a temple priest and a lady shaman, destined to wield the Beast Spear and defeat the super y\u014dkai Hakumen"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Janus: A Summing Up",
+                        "id": 1881210,
+                        "metadata": {
+                            "wikidata": "Q6155927",
+                            "definition": "Janus: A Summing Up is a 1978 book by Arthur Koestler, in which the author develops his philosophical idea of the holarchy. First introduced in Koestler's 1967 book, The Ghost in the Machine, the holarchy provides a coherent way of organizing knowledge and nature all together. The Holarchy The holarchy concept states that everything is composed of holons, which are simultaneously parts and wholes."
+                        }
+                    },
+                    {
+                        "text": "War and Peace",
+                        "id": 2328606,
+                        "metadata": {
+                            "wikidata": "Q161531",
+                            "definition": "War and Peace (\u0412\u043e\u0439\u043d\u0430 \u0438 \u043c\u0438\u0440 Voyna i mir; pre-reform Russian: ru \u0412\u043e\u0439\u043d\u0430 \u0438 \u043c\u0438\u0440\u044a; ) is a literary work by Russian author Leo Tolstoy. Set during the Napoleonic Wars, the work mixes fictional narrative with chapters discussing history and philosophy. An early version was published serially beginning in 1865, after which the entire book was rewritten and published in 1869. It is regarded,"
+                        }
+                    },
+                    {
+                        "text": "Janus, King of Cyprus",
+                        "id": 1746003,
+                        "metadata": {
+                            "wikidata": "Q878345",
+                            "definition": "Janus (1375 \u2013 29 June 1432) was King of Cyprus and titular King of Armenian Cilicia and Jerusalem from 1398 to 1432. Early life Janus was born in Genoa, where his father, James I of Cyprus, was a captive. His mother, Helvis of Brunswick-Grubenhagen, named him in honor of the god Janus, the founder of Genoa according to mythological tradition. When his father was"
+                        }
+                    },
+                    {
+                        "text": "Peace and Conflict",
+                        "id": 3370128,
+                        "metadata": {
+                            "wikidata": "Q7157481",
+                            "definition": "Peace and Conflict: Journal of Peace Psychology is a peer-reviewed academic journal published by Division 48 of the American Psychological Association. The journal was established in 1995. It is the main academic journal in the field of peace psychology, and covers research on \"peace, conflict, and their interaction at all levels of analysis, from interpersonal to community, regional, national, and international issues.\" The current"
+                        }
+                    },
+                    {
+                        "text": "Temple of Janus (Roman Forum)",
+                        "id": 5064581,
+                        "metadata": {
+                            "wikidata": "Q352799",
+                            "definition": "The Temple of Janus stood in the Roman Forum near the Basilica Aemilia, along the Argiletum. It was a small temple with a statue of Janus, the two-faced god of boundaries and beginnings inside. Its doors were known as the \"Gates of Janus\", which were closed in times of peace and opened in times of war. There are many theories about its original purpose;"
+                        }
+                    },
+                    {
+                        "text": "War in History",
+                        "id": 4297844,
+                        "metadata": {
+                            "wikidata": "Q7968612",
+                            "definition": "War In History is a peer-reviewed academic journal that publishes papers in the field of History. The journal's editors are Simon Ball (University of Leeds), Mary Kathryn Barbier (Mississippi State University), Phillips O'Brien (University of Glasgow) and the late Dennis Showalter (Colorado College). It has been in publication since 1994 and is published by SAGE Publications. Scope War in History takes the view that"
+                        }
+                    },
+                    {
+                        "text": "Janus (play)",
+                        "id": 1076318,
+                        "metadata": {
+                            "wikidata": "Q30598820",
+                            "definition": "Janus is a 1955 romantic comedy play by Carolyn Green. Synopsis The action concerns two people, Jessica and Denny (married, but not to each other), who get together in New York for a couple of months each year, to engage romantically and also to write a novel each year, which novels (published under the pen name \"Janus\") are regularly best-sellers. Jessica's husband (a shipping"
+                        }
+                    },
+                    {
+                        "text": "Peace and War",
+                        "id": 4615869,
+                        "metadata": {
+                            "wikidata": "Q7157499",
+                            "definition": "The Peace and War omnibus is a collection of the three books in Joe Haldeman's The Forever War series. The omnibus was released in 2006. Books included in the omnibus include: Forever Free Forever Peace The Forever War Trivia Originally removed from the 1974 novel's publication, the middle section consisting Mandella returning to Earth was re-inserted in this omnibus edition."
+                        }
+                    },
+                    {
+                        "text": "The Mask of Janus",
+                        "id": 5745077,
+                        "metadata": {
+                            "wikidata": "Q7750516",
+                            "definition": "The Mask of Janus was a British television series produced by the BBC in 1965, and starred Dinsdale Landen as counter espionage agent Richard Cadell. The series was set in the fictional European country of Amalia and dealt with the political interests of the British, American and Communist espionage communities within. Eschewing the action formula of its ITV contemporaries (e.g. Danger Man and the"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Through Times of War",
+                        "id": 5362705,
+                        "metadata": {
+                            "wikidata": "Q1756212",
+                            "definition": "Through Times of War is the first studio album by Norwegian black metal band Keep of Kalessin. The album shows a combination of fast, dark and epic black metal. The band went on to embrace more elements from the thrash metal genre, receiving even more widespread appeal. It was originally released through Avantgarde Music, but was re-released through several others. It was re-released through"
+                        }
+                    },
+                    {
+                        "text": "Rebirth of the Temple",
+                        "id": 5122911,
+                        "metadata": {
+                            "wikidata": "Q7302148",
+                            "definition": "Rebirth of the Temple is the first studio album by the American metalcore band Silent Civilian. It was released on May 2, 2006, by Mediaskare Records. The album contains two enhanced videos \u2013 one music video for the song \"Rebirth of the Temple\" and a behind-the-scenes look at how the album was made. In the music video, Wayne Static from Static-X and Roy Mayorga"
+                        }
+                    },
+                    {
+                        "text": "Temple in Jerusalem",
+                        "id": 1913599,
+                        "metadata": {
+                            "wikidata": "Q3906600",
+                            "definition": "The Temple in Jerusalem, or alternatively the Holy Temple (\u05d1\u05b5\u05bc\u05d9\u05ea\u05be\u05d4\u05b7\u05de\u05b4\u05bc\u05e7\u05b0\u05d3\u05b8\u05bc\u05e9\u05c1 B\u0113t haM\u012bqda\u0161 B\u0113\u1e6f hamM\u012bqd\u0101\u0161; \u0628\u064a\u062a \u0627\u0644\u0645\u0642\u062f\u0633, ar Bayt al-Maqdis), refers to the two religious structures that served as the central places of worship for Israelites and Jews on the modern-day Temple Mount in the Old City of Jerusalem. According to the Hebrew Bible, the First Temple was built in the 10th century BCE, during"
+                        }
+                    },
+                    {
+                        "text": "The Emperor Augustus Closes the Doors of the Temple of Janus",
+                        "id": 1006883,
+                        "metadata": {
+                            "wikidata": "Q72671544",
+                            "definition": "The Emperor Augustus Closes the Doors of the Temple of Janus or The Peace of Augustus is a c.1655-1657 oil on canvas painting by Carlo Maratta, one of nine works commissioned by Louis Ph\u00e9lypeaux, Seigneur of La Vrilli\u00e8re for the gilded gallery at his new h\u00f4tel de La Vrilli\u00e8re in Paris. It is now in the Palais des Beaux-Arts de Lille. It shows a"
+                        }
+                    },
+                    {
+                        "text": "The Emperor Augustus Closes the Doors of the Temple of Janus",
+                        "id": 827559,
+                        "metadata": {
+                            "wikidata": "Q72671544",
+                            "definition": "The Emperor Augustus Closes the Doors of the Temple of Janus or The Peace of Augustus is a c.1655-1657 oil on canvas painting by Carlo Maratta, one of nine works commissioned by Louis Ph\u00e9lypeaux, Seigneur of La Vrilli\u00e8re for the gilded gallery at his new h\u00f4tel de La Vrilli\u00e8re in Paris. It is now in the Palais des Beaux-Arts de Lille. It shows a"
+                        }
+                    },
+                    {
+                        "text": "During Wartime",
+                        "id": 6076678,
+                        "metadata": {
+                            "wikidata": "Q5316639",
+                            "definition": "During Wartime is the second official studio album by SCH. It was released on the Jugoton label in 1989. The recording line-up was Teno (vocals/guitar/bass), Petar Erak (bass), and Zlatan Had\u017ei\u0107 (drums). The album addresses a variety of topics, including the eternal relationship between totalitarianism and democracy, humanism and fanaticism, leaders and their subjects, the rapture of the so-called manipulated, and elitism. A number"
+                        }
+                    },
+                    {
+                        "text": "Third Temple",
+                        "id": 1781669,
+                        "metadata": {
+                            "wikidata": "Q1415267",
+                            "definition": "The \"Third Temple\" (\u05d1\u05b5\u05bc\u05d9\u05ea \u05d4\u05b7\u05de\u05b4\u05bc\u05e7\u05b0\u05d3\u05b8\u05bc\u05e9\u05c1 \u05d4\u05b7\u05e9\u05b0\u05bc\u05c1\u05dc\u05b4\u05d9\u05e9\u05b4\u05c1\u05d9, he B\u0113\u1e6f hamM\u012bqd\u0101\u0161 ha\u0161\u0160l\u012b\u0161\u012b, 'Third House of the Sanctum') refers to a hypothetical rebuilt Temple in Jerusalem. It would succeed Solomon's Temple and the Second Temple, the former having been destroyed during the Babylonian siege of Jerusalem in 587 BCE and the latter having been destroyed during the Roman siege of Jerusalem in 70 CE. The notion of"
+                        }
+                    },
+                    {
+                        "text": "Temple of All Religions",
+                        "id": 4105343,
+                        "metadata": {
+                            "wikidata": "Q1149480",
+                            "definition": "The Temple of All Religions (\u0425\u0440\u0430\u043c \u0432\u0441\u0435\u0445 \u0440\u0435\u043b\u0438\u0433\u0438\u0439, \u0411\u0430\u0440\u043b\u044b\u043a \u0434\u0438\u043d\u043d\u04d9\u0440 \u0433\u044b\u0439\u0431\u04d9\u0434\u04d9\u0442\u0445\u0430\u043d\u04d9\u0441\u0435) or the Universal Temple (\u0412\u0441\u0435\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u0445\u0440\u0430\u043c) is an architectural complex in the Staroye Arakchino Microdistrict of Kazan, Russia. It consists of several types of religious architecture including an Orthodox church, a mosque, and a synagogue, among others. It is currently under construction since 1992, started by local artist and philanthropist Ildar Khanov (1940"
+                        }
+                    },
+                    {
+                        "text": "Job's Temple",
+                        "id": 3961387,
+                        "metadata": {
+                            "wikidata": "Q6206594",
+                            "definition": "Job's Temple is a historic Methodist church building located near Glenville, Gilmer County, West Virginia. It was built between 1860 and 1866, and is a building constructed of poplar log, measuring 18 feet by 24 feet. The building was renovated between 1928 and 1936. Adjacent to the church is Job's Temple Cemetery, containing 122 graves. It was listed on the National Register of Historic"
+                        }
+                    },
+                    {
+                        "text": "Changping of the War",
+                        "id": 3056671,
+                        "metadata": {
+                            "wikidata": "Q7801158",
+                            "definition": "Changping of the War, also known as The Battle of Changping, is a Chinese television series based on the events surrounding the Battle of Changping, fought between the states of Qin and Zhao during the Warring States period. The series was produced in 2004 but has yet to be aired on television stations in China. Cast 30em Bao Guo'an as King Zhaoxiang of Qin"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Jeker",
+                        "id": 2146457,
+                        "metadata": {
+                            "wikidata": "Q1482210",
+                            "definition": "The Jeker (; Geer, ) is a river in Belgium and in the Netherlands. It is a left-bank tributary to the river Meuse. The source of the Jeker is near the village of Geer, in the Belgian province of Li\u00e8ge. The river is approximately 54 km54 km mi long, of which about 50 km50 km mi is in Belgium (provinces of Li\u00e8ge and Limburg)"
+                        }
+                    },
+                    {
+                        "text": "Gates (character)",
+                        "id": 1941951,
+                        "metadata": {
+                            "wikidata": "Q3758842",
+                            "definition": "Gates (Ti'julk Mr'asz) is a fictional character and member of the Legion of Super-Heroes in the DC Universe. Like all natives of the planet Vyrga, Gates has a largely insectoid body. He is also noted for his strong political views, tending towards socialism. Fictional character biography Gates was the third non-biped member (after Quislet and Tellus) in the history of the Legion (the first"
+                        }
+                    },
+                    {
+                        "text": "Closed Gates",
+                        "id": 1352682,
+                        "metadata": {
+                            "wikidata": "Q52151279",
+                            "definition": "Closed Gates is a 1927 American silent melodrama film based on a story by Manfred Lee and directed by Phil Rosen. It stars John Harron, Jane Novak, and Lucy Beaumont, and was released on June 1, 1927. Cast list John Harron as George Newell Jr. Jane Novak as Alice Winston Lucy Beaumont as Mary Newell Sidney De Grey as George Newell, Sr. LeRoy Mason"
+                        }
+                    },
+                    {
+                        "text": "Doors (computing)",
+                        "id": 6085086,
+                        "metadata": {
+                            "wikidata": "Q4037520",
+                            "definition": "Doors is an inter-process communication facility for Unix computer systems. They provide a form of procedure call. History Doors were developed by Sun Microsystems as a core part of the Spring operating system, then added to Solaris in version 2.5 as an undocumented internal interface. They became a documented feature in Solaris 2.6. Recent versions of Solaris use Doors in many places, including nscd"
+                        }
+                    },
+                    {
+                        "text": "Door of Return",
+                        "id": 786238,
+                        "metadata": {
+                            "wikidata": "Q40890455",
+                            "definition": "The Door of Return is an emblem of African Renaissance and is a pan-African initiative that seeks to launch a new era of cooperation between Africa and its diaspora in the 21st century. The initiative is Chaired by the Hon. Timothy E. McPherson Jr., Minister of Finance for the Accompong Maroons in Jamaica, and is being spearheaded across Africa in cooperation with Nigeria, Ghana"
+                        }
+                    },
+                    {
+                        "text": "Book of Gates",
+                        "id": 2128888,
+                        "metadata": {
+                            "wikidata": "Q32137",
+                            "definition": "The Book of Gates (\u0643\u062a\u0627\u0628 \u0627\u0644\u0628\u0648\u0627\u0628\u0627\u062a Kitab al-Bawaabat) is an ancient Egyptian funerary text dating from the New Kingdom. The Book of Gates is long and detailed, consisting of one hundred scenes. It narrates the passage of a newly deceased soul into the next world journeying with of the sun god, Ra, through the underworld during the hours of the night towards his resurrection."
+                        }
+                    },
+                    {
+                        "text": "Gate",
+                        "id": 2194660,
+                        "metadata": {
+                            "wikidata": "Q53060",
+                            "definition": "A gate or gateway is a point of entry to or from a space enclosed by walls. The word derived from old Norse \"gat\" meaning road or ; But other terms include yett and port. The concept originally referred to the gap or hole in the wall or fence, rather than a barrier which closed it. Gates may prevent or control the entry or"
+                        }
+                    },
+                    {
+                        "text": "G\u00e5te",
+                        "id": 1773935,
+                        "metadata": {
+                            "wikidata": "Q636058",
+                            "definition": "(; no riddle) is a band from Tr\u00f8ndelag, Norway playing Norwegian folk music bred with metal and electronica. Their style has been referred to as progressive folk-rock. The band was put together by Sveinung Sundli (violin, keyboards) in 2000 and originally consisted of his younger sister Gunnhild Sundli (vocals), Gjermund Landr\u00f8 (bass, backing vocals), Martin Langlie (drums) and Magnus Robot B\u00f8rmark (guitar, keyboards). Langlie"
+                        }
+                    },
+                    {
+                        "text": "Door",
+                        "id": 1886201,
+                        "metadata": {
+                            "wikidata": "Q36794",
+                            "definition": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. The created opening in the wall is a doorway or portal. A door's essential and primary purpose is to provide security by controlling access to the doorway (portal). Conventionally, it is a panel that fits into the doorway of a building, room, or vehicle."
+                        }
+                    },
+                    {
+                        "text": "Doors of the Roman Pantheon",
+                        "id": 338291,
+                        "metadata": {
+                            "wikidata": "Q125122565",
+                            "definition": "The Doors of the Roman Pantheon are the main entrance bronze doors to the rotunda of the Roman Pantheon. As a monument of applied arts, the exact date of their creation has remained open to speculation for centuries, with scholars attempting to determine the age of the doors and whether they are contemporaneous with the Pantheon. Description The doors, measuring 4.45 meters wide and"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Path of Change",
+                        "id": 1860606,
+                        "metadata": {
+                            "wikidata": "Q457747",
+                            "definition": "Path of Change (sometimes translated as Way to Change, in Czech: Cesta zm\u011bny) was a small liberal party in the Czech Republic. The party was led by Ji\u0159\u00ed Lobkowicz. It has no members of parliament and no elected councillors in local government. The party was a founding member of the European Democratic Party (EDP), which together with the European Liberal Democrat and Reform Party"
+                        }
+                    },
+                    {
+                        "text": "Joseph Janus",
+                        "id": 3439826,
+                        "metadata": {
+                            "wikidata": "Q18687989",
+                            "definition": "Joseph Janus is an American advertising executive and businessman. He is the chief executive officer of WESC (We Are the Superlative Conspiracy) America, a clothing company. He has been the advertising and marketing senior vice president at Calvin Klein and the Creative Director of Bodhi Bags. Career Janus began his career at Guess, and then in the 1990s worked for JNCO. Janus worked with"
+                        }
+                    },
+                    {
+                        "text": "Progress toward degree",
+                        "id": 5872924,
+                        "metadata": {
+                            "wikidata": "Q7248596",
+                            "definition": "The progress toward degree rule, commonly referred to as the 40-60-80 rule, is a piece of National Collegiate Athletic Association (NCAA) legislation designed to increase retention and graduation rates of NCAA Division I student athletes. The legislation, that took effect for first time freshmen in 2003, states that by the beginning of the student-athlete's third year of college enrollment, they must have completed 40%"
+                        }
+                    },
+                    {
+                        "text": "Progress",
+                        "id": 2118958,
+                        "metadata": {
+                            "wikidata": "Q2351730",
+                            "definition": "Progress is movement towards a refined, improved, or otherwise desired state. It is central to the philosophy of progressivism, which interprets progress as the set of advancements in technology, science, and social organization efficiency \u2013 the latter being generally generally achieved through direct societal action, as in social enterprise or through activism, but being also attainable through natural sociocultural evolution \u2013 that progressivism holds"
+                        }
+                    },
+                    {
+                        "text": "PROGRESS",
+                        "id": 132644,
+                        "metadata": {
+                            "wikidata": "Q1537845",
+                            "definition": "PROGRESS is a German film distributor. It was established in 1950 to handle the release of films produced by DEFA, the state-controlled production outfit of communist East Germany. Since 1989 Progress distributes the entire DEFA film collection. Since 2019, PROGRESS has been digitizing and making accessible the complete holdings of DEFA as well as a growing number of international collections by other archives which"
+                        }
+                    },
+                    {
+                        "text": "Become",
+                        "id": 91042,
+                        "metadata": {
+                            "wikidata": "Q123913952",
+                            "definition": "Become is an extended play by the American dream pop duo Beach House. The project was released on April 22, 2023, as a Record Store Day exclusive. Become was made available for streaming on April 28, followed by an expanded release on CD and other formats on May 19. Background In 2022, Beach House released the acclaimed double album Once Twice Melody. An announcement"
+                        }
+                    },
+                    {
+                        "text": "Desire Pathway",
+                        "id": 1471245,
+                        "metadata": {
+                            "wikidata": "Q119625849",
+                            "definition": "Desire Pathway is the eighth and final studio album by American punk blues band Screaming Females. Reception Editors at AllMusic rated this album 4 out of 5 stars, with critic Mark Deming writing that it is punk rock for being \"brave, smart, honest, and expressive\". Ian Cohen of Pitchfork Media rated this release a 6.8 out of 10, calling it a \"solid album of"
+                        }
+                    },
+                    {
+                        "text": "Theory of Change",
+                        "id": 4277100,
+                        "metadata": {
+                            "wikidata": "Q17165339",
+                            "definition": "Theory of Change (ToC) is a methodology or a criterion for planning, participation, adaptive management, and evaluation that is used in companies, philanthropy, not-for-profit, international development, research, and government sectors to promote social change. A Theory of Change of a social program defines its long-term goals and then maps backward to identify necessary preconditions. Theory of Change explains the process of change by outlining"
+                        }
+                    },
+                    {
+                        "text": "Human Destination",
+                        "id": 5612870,
+                        "metadata": {
+                            "wikidata": "Q5937042",
+                            "definition": "Human Destination Is the second album by American band The Upsidedown. Track listing All songs written by J. Atoms unless otherwise stated. \"Licorice Noir\" \u2013 0:36 \"Hell\" \u2013 2:56 \"Silver Wind\" \u2013 2:28 \"Human Destination\" \u2013 3:28 \"Umbrella\" \u2013 3:41 \"Light\" \u2013 2:50 \"Ambient 32\" \u2013 3:00 \"Halo\" \u2013 3:15 \"Ernestine\" \u2013 2:42 \"Black Rainbow\" \u2013 3:17 \"#29\" \u2013 4:01 \"Before Remember\" \u2013 5:54"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Janus (genus)",
+                        "id": 1603428,
+                        "metadata": {
+                            "wikidata": "Q14499258",
+                            "definition": "Janus is a genus of stem sawflies in the family Cephidae. There are about five described species in Janus. Species These five species belong to the genus Janus: Janus abbreviatus i c g Janus compressus g Janus cynosbati g Janus integer i c g b (currant stem girdler) Janus luteipes g"
+                        }
+                    },
+                    {
+                        "text": "Auspicious wedding dates",
+                        "id": 3974615,
+                        "metadata": {
+                            "wikidata": "Q4822793",
+                            "definition": "Auspicious wedding dates refer to auspicious, or lucky, times to get married, and is a common belief among many cultures. Although there are a few periods, such as the month of May, which they agree on, a number of cultures, including Hindu, Chinese, Catholic, Scottish, Irish, Old English, Ancient Roman and Moroccan culture, favor and avoid particular months and dates for weddings. A number"
+                        }
+                    },
+                    {
+                        "text": "Harvest (Numbers)",
+                        "id": 4675534,
+                        "metadata": {
+                            "wikidata": "Q5676737",
+                            "definition": "\"Harvest\" is the 14th episode of the second season of the American television show Numbers. Inspired by a Christian Science Monitor article about organ tourists, people who travel to a different country to give their organs for money, and an algorithm developed in the United States, the episode features Federal Bureau of Investigation (FBI) agents and mathematicians attempting to locate a missing organ tourist"
+                        }
+                    },
+                    {
+                        "text": "Season of the Harvest",
+                        "id": 2283762,
+                        "metadata": {
+                            "wikidata": "Q1248622",
+                            "definition": "The Season of the Harvest or Low Water was the third and final season of the lunar and civil Egyptian calendars. It fell after the Season of the Emergence (egy Prt) and before the spiritually dangerous intercalary month (egy \u1e24ryw Rnpt), after which the New Year's festivities began the Season of the Inundation (\ua722\u1e2bt). In the Coptic and Egyptian calendars this season begins at"
+                        }
+                    },
+                    {
+                        "text": "Janus (horse)",
+                        "id": 76461,
+                        "metadata": {
+                            "wikidata": "Q106946624",
+                            "definition": "Janus (1746\u20131780), also known as Little Janus, Young Janus, and Janus II, was an English Thoroughbred stallion imported to Colonial America, which would later become the United States. Noted for his quickness and compact conformation, he has subsequently been acknowledged as a foundation sire of the American Quarter Horse. Background Bred by Francis Godolphin, 2nd Earl of Godolphin, Janus was foaled in England in"
+                        }
+                    },
+                    {
+                        "text": "Janus (star)",
+                        "id": 1025418,
+                        "metadata": {
+                            "wikidata": "Q125146266",
+                            "definition": "Janus, also known by its name ZTF J203349.8+322901.1, is a transitioning white dwarf located more than 1300 ly1300 ly pc away in the constellation Cygnus, discovered in 2019 by the Zwicky Transient Facility (ZTF), located at the Palomar Observatory, while looking for periodically variable white dwarfs. Subsequent observations using the Low-Resolution Imaging Spectrometer (LRIS) on the W. M. Keck Observatory discovered its two-faced nature,"
+                        }
+                    },
+                    {
+                        "text": "Janus (star)",
+                        "id": 943635,
+                        "metadata": {
+                            "wikidata": "Q125146266",
+                            "definition": "Janus, also known by its name ZTF J203349.8+322901.1, is a transitioning white dwarf located more than 1300 ly1300 ly pc away in the constellation Cygnus, discovered in 2019 by the Zwicky Transient Facility (ZTF), located at the Palomar Observatory, while looking for periodically variable white dwarfs. Subsequent observations using the Low-Resolution Imaging Spectrometer (LRIS) on the W. M. Keck Observatory discovered its two-faced nature,"
+                        }
+                    },
+                    {
+                        "text": "Joseph Janus",
+                        "id": 3439826,
+                        "metadata": {
+                            "wikidata": "Q18687989",
+                            "definition": "Joseph Janus is an American advertising executive and businessman. He is the chief executive officer of WESC (We Are the Superlative Conspiracy) America, a clothing company. He has been the advertising and marketing senior vice president at Calvin Klein and the Creative Director of Bodhi Bags. Career Janus began his career at Guess, and then in the 1990s worked for JNCO. Janus worked with"
+                        }
+                    },
+                    {
+                        "text": "Janya",
+                        "id": 4899902,
+                        "metadata": {
+                            "wikidata": "Q3534390",
+                            "definition": "Janya is a term meaning \"derive\". In Carnatic (South Indian) music a janya raga is one derived from one of the 72 melakarta ragas (fundamental melodic structures). Janya ragas are classified into various types based on a variety of features. Varja ragas Ragas that omit (varjyam, to omit in Sanskrit) one or more of the notes of the scale (swaras) of their parent melakarta"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Janus, King of Cyprus",
+                        "id": 1746003,
+                        "metadata": {
+                            "wikidata": "Q878345",
+                            "definition": "Janus (1375 \u2013 29 June 1432) was King of Cyprus and titular King of Armenian Cilicia and Jerusalem from 1398 to 1432. Early life Janus was born in Genoa, where his father, James I of Cyprus, was a captive. His mother, Helvis of Brunswick-Grubenhagen, named him in honor of the god Janus, the founder of Genoa according to mythological tradition. When his father was"
+                        }
+                    },
+                    {
+                        "text": "Janulus",
+                        "id": 2595091,
+                        "metadata": {
+                            "wikidata": "Q6155911",
+                            "definition": "Janulus is a genus of air-breathing land snails, terrestrial pulmonate gastropod mollusks in the family Gastrodontidae. Species Species within the genus Janulus include: Janulus angustiumbilicatus (Sacco, 1886) Janulus austriacus Harzhauser & H.Binder, 2004 Janulus bifrons (R.T.Lowe, 1831) Janulus decorosus W.Y\u00fc & X.-Q.Zhang, 1982 Janulus densestriatus (Klika, 1891) Janulus gottschicki (Jooss, 1912) Janulus olisipponensis (Roman, 1907) Janulus pompylius (Shuttleworth, 1852) Janulus schottleri Wenz, 1922 Janulus"
+                        }
+                    },
+                    {
+                        "text": "Janus (protocol)",
+                        "id": 1178035,
+                        "metadata": {
+                            "wikidata": "Q47468094",
+                            "definition": "Janus is a file transfer protocol for use on bulletin board systems (BBSs). It has the relatively rare feature that it is fully bidirectional, allowing the protocol to upload and download files at the same time. It was written by Rick Huebner in 1987; Huebner had previously written a ZMODEM module for the Opus-CBBS system. Using Janus, Opus BBS systems could save time exchanging"
+                        }
+                    },
+                    {
+                        "text": "High priest",
+                        "id": 2099742,
+                        "metadata": {
+                            "wikidata": "Q3114821",
+                            "definition": "The term \"high priest\" usually refers either to an individual who holds the office of ruler-priest, or to one who is the head of a religious organisation. Ancient Egypt December 2021 In ancient Egypt, a high priest was the chief priest of any of the many gods revered by the Egyptians. While not regarded as a dynasty, the High Priest of Amun at Thebes,"
+                        }
+                    },
+                    {
+                        "text": "Coridius janus",
+                        "id": 226797,
+                        "metadata": {
+                            "wikidata": "Q39046216",
+                            "definition": "Coridius janus, sometimes known as the red pumpkin bug, is a species of bug in the family Dinidoridae. It feeds by sucking on the sap on soft parts of plants especially in the cucurbit family and causes damage to crops. The species was originally described in the genus Cimex by Fabricius and later placed in the genus Aspongopus. The antenna is five segmented with"
+                        }
+                    },
+                    {
+                        "text": "Samuel Janus",
+                        "id": 5787157,
+                        "metadata": {
+                            "wikidata": "Q7411837",
+                            "definition": "Samuel Janus (November 22, 1930 \u2013 February 7, 2011) was an American psychotherapist and author who specialized in investigating the sexual exploitation of children. He died on February 7, 2011, at the age of 80."
+                        }
+                    },
+                    {
+                        "text": "Janur",
+                        "id": 1052272,
+                        "metadata": {
+                            "wikidata": "Q13093596",
+                            "definition": "Janur (from Javanese language jv \ua997\ua9a4\ua9b8\ua982) is a young leaf of big palm tree, especially coconut, sugar palm (Arenga pinnata) and sago palm (Metroxylon rumphii or Metroxylon sagu). Janur is used as a tool by tribes in Indonesia as part of their daily lives. It is also called yellow coconut leaf, the colour could be light green or whitish green. Janur, placed in the"
+                        }
+                    },
+                    {
+                        "text": "Janus Cornarius",
+                        "id": 5714842,
+                        "metadata": {
+                            "wikidata": "Q72457",
+                            "definition": "Janus Cornarius (ca. 1500 \u2013 16 March 1558) was a Saxon humanist and friend of Erasmus. A gifted philologist, Cornarius specialized in editing and translating Greek and Latin medical writers with \"prodigious industry,\" taking a particular interest in botanical pharmacology and the effects of environment on illness and the body. Early in his career, Cornarius also worked with Greek poetry, and later in his"
+                        }
+                    },
+                    {
+                        "text": "Janus del Prado",
+                        "id": 2832253,
+                        "metadata": {
+                            "wikidata": "Q16206540",
+                            "definition": "Janus Renato Robles Mateo III (born 19 November 1984), better known by his screen name Janus del Prado, is a Filipino actor. He is a former talent of Star Magic. Early life He is the youngest son of veteran action star Renato del Prado and actress Amelia Robles. Career He started in showbusiness at age of 5 doing bit roles. His mother refused to"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Civilization and barbarism",
+                        "id": 6154955,
+                        "metadata": {
+                            "wikidata": "Q5124762",
+                            "definition": "The Civilization and Barbarism was a dichotomy used during the Argentine Civil War by the Unitarian Party. The dichotomy can be found in books such as Facundo, by Domingo Faustino Sarmiento, or The New Troy by the contemporary French Alexandre Dumas, who wrote it based on reports by the Unitarian Melchor Pacheco. In this dichotomy, \"civilization\" makes reference to the values and ideas of"
+                        }
+                    },
+                    {
+                        "text": "Society of Janus",
+                        "id": 2011649,
+                        "metadata": {
+                            "wikidata": "Q7552537",
+                            "definition": "The Society of Janus is the second BDSM organization founded in the United States (after The Eulenspiegel Society) and is a San Francisco, California based BDSM education and support group. The Society of Janus is nonprofit, volunteer run and is devoted to the art of safe, consensual and non-exploitative adult power exchange. They publish a monthly digital newsletter called Yellow. History The Society of"
+                        }
+                    },
+                    {
+                        "text": "Janus: A Summing Up",
+                        "id": 1881210,
+                        "metadata": {
+                            "wikidata": "Q6155927",
+                            "definition": "Janus: A Summing Up is a 1978 book by Arthur Koestler, in which the author develops his philosophical idea of the holarchy. First introduced in Koestler's 1967 book, The Ghost in the Machine, the holarchy provides a coherent way of organizing knowledge and nature all together. The Holarchy The holarchy concept states that everything is composed of holons, which are simultaneously parts and wholes."
+                        }
+                    },
+                    {
+                        "text": "Janus (genus)",
+                        "id": 1603428,
+                        "metadata": {
+                            "wikidata": "Q14499258",
+                            "definition": "Janus is a genus of stem sawflies in the family Cephidae. There are about five described species in Janus. Species These five species belong to the genus Janus: Janus abbreviatus i c g Janus compressus g Janus cynosbati g Janus integer i c g b (currant stem girdler) Janus luteipes g"
+                        }
+                    },
+                    {
+                        "text": "Janus (protocol)",
+                        "id": 1178035,
+                        "metadata": {
+                            "wikidata": "Q47468094",
+                            "definition": "Janus is a file transfer protocol for use on bulletin board systems (BBSs). It has the relatively rare feature that it is fully bidirectional, allowing the protocol to upload and download files at the same time. It was written by Rick Huebner in 1987; Huebner had previously written a ZMODEM module for the Opus-CBBS system. Using Janus, Opus BBS systems could save time exchanging"
+                        }
+                    },
+                    {
+                        "text": "Janus (moon)",
+                        "id": 2330271,
+                        "metadata": {
+                            "wikidata": "Q17754",
+                            "definition": "Janus is an inner satellite of Saturn. It is also known as Saturn X. It is named after the mythological Janus. History Discovery Janus was identified by Audouin Dollfus on 15 December 1966 and given the temporary designation S/1966 S 2. Previously, Jean Texereau fr had photographed Janus on 29 October 1966 without realising it. On 18 December, Richard Walker observed an object in"
+                        }
+                    },
+                    {
+                        "text": "Cephonodes janus",
+                        "id": 4100528,
+                        "metadata": {
+                            "wikidata": "Q1590749",
+                            "definition": "Cephonodes janus is a moth of the family Sphingidae first described by William Henry Miskin in 1891. It is known from the Australian state of Queensland, Flores in Indonesia, and New Caledonia east of Australia. Subspecies Cephonodes janus janus (Queensland) Cephonodes janus austrosundanus (Flores) Cephonodes janus simplex (New Caledonia)"
+                        }
+                    },
+                    {
+                        "text": "Janus Society",
+                        "id": 6030691,
+                        "metadata": {
+                            "wikidata": "Q6155963",
+                            "definition": "The Janus Society was an early homophile organization founded in 1962 and based in Philadelphia. It is notable as the publisher of Drum magazine, one of the earliest gay publications in the United States and the one most widely circulated in the 1960s, and for its role in organizing many of the nation's earliest LGBT rights demonstrations. The Janus Society takes its name from"
+                        }
+                    },
+                    {
+                        "text": "Janus (journal)",
+                        "id": 793828,
+                        "metadata": {
+                            "wikidata": "Q20859103",
+                            "definition": "Janus was an academic journal published in Amsterdam in the French language from 1896 to 1990, devoted to the history of medicine and the history of science. It should not be confused with a different journal by the same name on the history of medicine, published roughly 50 years earlier in Germany as de Janus, Zeitschrift f\u00fcr Geschichte und Literatur der Medicin. Founding and"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "Janus",
+                        "id": 2330270,
+                        "metadata": {
+                            "wikidata": "Q167685",
+                            "definition": "In ancient Roman religion and myth, Janus ( JAY n\u0259s; Ianvs ) is the god of beginnings, gates, transitions, time, duality, doorways, passages, frames, and endings. He is usually depicted as having two faces. The month of January is named for Janus (Ianuarius). According to ancient Roman farmers' almanacs, Juno was mistaken as the tutelary deity of the month of January, but Juno is"
+                        }
+                    },
+                    {
+                        "text": "Ancient Rome",
+                        "id": 1824121,
+                        "metadata": {
+                            "wikidata": "Q1747689",
+                            "definition": "In modern historiography, ancient Rome encompasses the founding of the Italian city of Rome in the 8th century BC, the Roman Kingdom (753\u2013509 BC), Roman Republic (509\u201327 BC), Roman Empire (27 BC\u2013 395 AD), and the collapse of the Western Roman Empire in the 5th century AD. Ancient Rome began as an Italic settlement, traditionally dated to 753 BC, beside the River Tiber in"
+                        }
+                    },
+                    {
+                        "text": "Greeks",
+                        "id": 1753770,
+                        "metadata": {
+                            "wikidata": "Q539051",
+                            "definition": "The Greeks or Hellenes (; \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2, \u00c9llines ) are an ethnic group and nation native to Greece, Cyprus, southern Albania, Anatolia, parts of Italy and Egypt, and to a lesser extent, other countries surrounding the Eastern Mediterranean and Black Sea. They also form a significant diaspora (el omogenia), with many Greek communities established around the world. Greek colonies and communities have been historically established"
+                        }
+                    },
+                    {
+                        "text": "Greece in the Roman era",
+                        "id": 2062322,
+                        "metadata": {
+                            "wikidata": "Q2497438",
+                            "definition": "Greece in the Roman era describes the Roman conquest of the territory of the modern nation-state of Greece as well as that of the Greek people and the areas they inhabited and ruled historically. It covers the periods when Greece was dominated first by the Roman Republic and then by the Roman Empire. In the history of Greece, the Roman era began with the"
+                        }
+                    },
+                    {
+                        "text": "Ancient Greece",
+                        "id": 2234070,
+                        "metadata": {
+                            "wikidata": "Q11772",
+                            "definition": "Ancient Greece (\u1f19\u03bb\u03bb\u03ac\u03c2 Hell\u00e1s) was a northeastern Mediterranean civilization, existing from the Greek Dark Ages of the 12th\u20139th centuries BC to the end of classical antiquity (600 AD), that comprised a loose collection of culturally and linguistically related city-states and other territories. Most of these regions were officially unified only once, for 13 years, under Alexander the Great's empire from 336 to 323 BC."
+                        }
+                    },
+                    {
+                        "text": "Culture of ancient Rome",
+                        "id": 2217216,
+                        "metadata": {
+                            "wikidata": "Q1200427",
+                            "definition": "The culture of ancient Rome existed throughout the almost 1,200-year history of the civilization of Ancient Rome. The term refers to the culture of the Roman Republic, later the Roman Empire, which at its peak covered an area from present-day Lowland Scotland and Morocco to the Euphrates. Life in ancient Rome revolved around the city of Rome, its famed seven hills, and its monumental"
+                        }
+                    },
+                    {
+                        "text": "Roman Empire",
+                        "id": 2293355,
+                        "metadata": {
+                            "wikidata": "Q2277",
+                            "definition": "The Roman Empire was the post-Republican state of ancient Rome. It is generally understood to mean the period and territory ruled by the Romans following Octavian's assumption of sole rule under the Principate in 27 BC. It included territories in Europe, North Africa, and Western Asia and was ruled by emperors. The fall of the Western Roman Empire in 476 AD conventionally marks the"
+                        }
+                    },
+                    {
+                        "text": "Greeks in pre-Roman Gaul",
+                        "id": 3888782,
+                        "metadata": {
+                            "wikidata": "Q5602112",
+                            "definition": "The Greeks in pre-Roman Gaul have a significant history of settlement, trade, cultural influence, and armed conflict in the Celtic territory of Gaul (modern France), starting from the 6th century BC during the Greek Archaic period. Following the founding of the major trading post of Massalia in 600 BC by the Phocaeans at present day Marseille, Massalians had a complex history of interaction with"
+                        }
+                    },
+                    {
+                        "text": "Names of the Greeks",
+                        "id": 2168399,
+                        "metadata": {
+                            "wikidata": "Q853581",
+                            "definition": "The Greeks (\u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2) have been identified by many ethnonyms. The most common native ethnonym is Hellen (\u1f1d\u03bb\u03bb\u03b7\u03bd), pl. Hellenes (grc \u1f1d\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2); the name Greeks (Graeci) was used by the ancient Romans and gradually entered the European languages through its use in Latin. The mythological patriarch Hellen is the named progenitor of the Greek peoples; his descendants the Aeolians, Dorians, Achaeans and Ionians correspond to"
+                        }
+                    },
+                    {
+                        "text": "Roman timekeeping",
+                        "id": 3034805,
+                        "metadata": {
+                            "wikidata": "Q7362341",
+                            "definition": "In Roman timekeeping, a day was divided into periods according to the available technology. Initially, the day was divided into two parts: the ante meridiem (before noon) and the post meridiem (after noon). With the advent of the sundial circa 263 BC, the period of the natural day from sunrise to sunset was divided into twelve hours. Variation An hour was defined as one"
+                        }
+                    }
+                ]
+            ]
+        ],
+        "triplet": [
+            [
+                [
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "foundational text",
+                        "id": 158,
+                        "metadata": {
+                            "description": "text through which an institution or object has been created or established",
+                            "property": "P457"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "attested in",
+                        "id": 173,
+                        "metadata": {
+                            "description": "document or corpus where the lemma or form of a Lexeme entity, word or name is used, but not described",
+                            "property": "P5323"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "official religion",
+                        "id": 160,
+                        "metadata": {
+                            "description": "official religion in this administrative entity",
+                            "property": "P3075"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "has characteristic",
+                        "id": 164,
+                        "metadata": {
+                            "description": "inherent or distinguishing quality or feature of the entity. Use a more specific property when possible",
+                            "property": "P1552"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "is the study of",
+                        "id": 113,
+                        "metadata": {
+                            "description": "the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.",
+                            "property": "P2578"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "different from",
+                        "id": 22,
+                        "metadata": {
+                            "description": "item that is different from another item, with which it may be confused",
+                            "property": "P1889"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "significant event",
+                        "id": 46,
+                        "metadata": {
+                            "description": "significant or notable events associated with the subject",
+                            "property": "P793"
+                        }
+                    },
+                    {
+                        "text": "follows",
+                        "id": 13,
+                        "metadata": {
+                            "description": "immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+                            "property": "P155"
+                        }
+                    },
+                    {
+                        "text": "participant",
+                        "id": 9,
+                        "metadata": {
+                            "description": "person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+                            "property": "P710"
+                        }
+                    },
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "position held",
+                        "id": 54,
+                        "metadata": {
+                            "description": "subject currently or formerly holds the object position or public office",
+                            "property": "P39"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "participant",
+                        "id": 9,
+                        "metadata": {
+                            "description": "person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+                            "property": "P710"
+                        }
+                    },
+                    {
+                        "text": "significant event",
+                        "id": 46,
+                        "metadata": {
+                            "description": "significant or notable events associated with the subject",
+                            "property": "P793"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "physically interacts with",
+                        "id": 85,
+                        "metadata": {
+                            "description": "physical entity that the subject interacts with",
+                            "property": "P129"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "manifestation of",
+                        "id": 141,
+                        "metadata": {
+                            "description": "inherent and characteristic embodiment of a given concept",
+                            "property": "P1557"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "has characteristic",
+                        "id": 164,
+                        "metadata": {
+                            "description": "inherent or distinguishing quality or feature of the entity. Use a more specific property when possible",
+                            "property": "P1552"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "follows",
+                        "id": 13,
+                        "metadata": {
+                            "description": "immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+                            "property": "P155"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "manifestation of",
+                        "id": 141,
+                        "metadata": {
+                            "description": "inherent and characteristic embodiment of a given concept",
+                            "property": "P1557"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "feast day",
+                        "id": 312,
+                        "metadata": {
+                            "description": "saint's principal feast day",
+                            "property": "P841"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "canonization status",
+                        "id": 298,
+                        "metadata": {
+                            "description": "Formal stage in the process of attaining sainthood per the subject's religious organization",
+                            "property": "P411"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "place of death",
+                        "id": 49,
+                        "metadata": {
+                            "description": "most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character",
+                            "property": "P20"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "position held",
+                        "id": 54,
+                        "metadata": {
+                            "description": "subject currently or formerly holds the object position or public office",
+                            "property": "P39"
+                        }
+                    },
+                    {
+                        "text": "occupation",
+                        "id": 74,
+                        "metadata": {
+                            "description": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)",
+                            "property": "P106"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "student",
+                        "id": 69,
+                        "metadata": {
+                            "description": "notable student(s) of the subject individual",
+                            "property": "P802"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "military rank",
+                        "id": 109,
+                        "metadata": {
+                            "description": "military rank achieved by a person (should usually have a \"start time\" qualifier), or military rank associated with a position",
+                            "property": "P410"
+                        }
+                    },
+                    {
+                        "text": "noble title",
+                        "id": 119,
+                        "metadata": {
+                            "description": "titles held by the person",
+                            "property": "P97"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "is the study of",
+                        "id": 113,
+                        "metadata": {
+                            "description": "the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.",
+                            "property": "P2578"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "field of work",
+                        "id": 53,
+                        "metadata": {
+                            "description": "specialization of a person or organization; see P106 for the occupation",
+                            "property": "P101"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "ethnic group",
+                        "id": 78,
+                        "metadata": {
+                            "description": "subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)",
+                            "property": "P172"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    },
+                    {
+                        "text": "language used",
+                        "id": 50,
+                        "metadata": {
+                            "description": "language widely used (spoken or written) in this place or at this event",
+                            "property": "P2936"
+                        }
+                    },
+                    {
+                        "text": "languages spoken, written or signed",
+                        "id": 51,
+                        "metadata": {
+                            "description": "language(s) that a person or a people speaks, writes or signs, including the native language(s)",
+                            "property": "P1412"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "named after",
+                        "id": 45,
+                        "metadata": {
+                            "description": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one",
+                            "property": "P138"
+                        }
+                    },
+                    {
+                        "text": "country",
+                        "id": 0,
+                        "metadata": {
+                            "description": "sovereign state that this item is in (not to be used for human beings)",
+                            "property": "P17"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "place of birth",
+                        "id": 39,
+                        "metadata": {
+                            "description": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",
+                            "property": "P19"
+                        }
+                    }
+                ]
+            ]
+        ]
+    }
+}

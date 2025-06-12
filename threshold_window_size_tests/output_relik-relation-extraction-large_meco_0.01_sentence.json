@@ -1,0 +1,1331 @@
+{
+    "text": "In ancient Roman religion and myth, Janus is the god of beginnings and gates. He has a double nature and is usually depicted as having two faces, since he looks to the future and to the past. Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus had no specialized priest assigned to him, but the high priest himself carried out his ceremonies. Janus represented the middle ground between barbarism and civilization, rural and urban space, youth and adulthood. The ancient Greeks had no equivalent to Janus, whom the Romans claimed as distinctively their own.",
+    "tokens": [
+        "In",
+        "ancient",
+        "Roman",
+        "religion",
+        "and",
+        "myth",
+        ",",
+        "Janus",
+        "is",
+        "the",
+        "god",
+        "of",
+        "beginnings",
+        "and",
+        "gates",
+        ".",
+        "He",
+        "has",
+        "a",
+        "double",
+        "nature",
+        "and",
+        "is",
+        "usually",
+        "depicted",
+        "as",
+        "having",
+        "two",
+        "faces",
+        ",",
+        "since",
+        "he",
+        "looks",
+        "to",
+        "the",
+        "future",
+        "and",
+        "to",
+        "the",
+        "past",
+        ".",
+        "Janus",
+        "presided",
+        "over",
+        "the",
+        "beginning",
+        "and",
+        "ending",
+        "of",
+        "conflict",
+        ",",
+        "and",
+        "hence",
+        "war",
+        "and",
+        "peace",
+        ".",
+        "The",
+        "doors",
+        "of",
+        "his",
+        "temple",
+        "were",
+        "open",
+        "in",
+        "times",
+        "of",
+        "war",
+        "and",
+        "closed",
+        "during",
+        "peacetime",
+        ".",
+        "As",
+        "the",
+        "god",
+        "of",
+        "gates",
+        ",",
+        "he",
+        "was",
+        "also",
+        "associated",
+        "with",
+        "entering",
+        "and",
+        "exiting",
+        "the",
+        "doors",
+        "of",
+        "homes",
+        ".",
+        "Janus",
+        "frequently",
+        "symbolized",
+        "change",
+        "and",
+        "transitions",
+        ",",
+        "such",
+        "as",
+        "the",
+        "progress",
+        "from",
+        "one",
+        "condition",
+        "to",
+        "another",
+        ",",
+        "from",
+        "one",
+        "vision",
+        "to",
+        "another",
+        ",",
+        "and",
+        "the",
+        "growth",
+        "of",
+        "young",
+        "people",
+        "into",
+        "adulthood",
+        ".",
+        "Hence",
+        ",",
+        "Janus",
+        "was",
+        "worshipped",
+        "at",
+        "the",
+        "beginning",
+        "of",
+        "the",
+        "harvest",
+        "and",
+        "planting",
+        "times",
+        ",",
+        "as",
+        "well",
+        "as",
+        "at",
+        "marriages",
+        ",",
+        "deaths",
+        ",",
+        "and",
+        "other",
+        "beginnings",
+        ".",
+        "Janus",
+        "had",
+        "no",
+        "specialized",
+        "priest",
+        "assigned",
+        "to",
+        "him",
+        ",",
+        "but",
+        "the",
+        "high",
+        "priest",
+        "himself",
+        "carried",
+        "out",
+        "his",
+        "ceremonies",
+        ".",
+        "Janus",
+        "represented",
+        "the",
+        "middle",
+        "ground",
+        "between",
+        "barbarism",
+        "and",
+        "civilization",
+        ",",
+        "rural",
+        "and",
+        "urban",
+        "space",
+        ",",
+        "youth",
+        "and",
+        "adulthood",
+        ".",
+        "The",
+        "ancient",
+        "Greeks",
+        "had",
+        "no",
+        "equivalent",
+        "to",
+        "Janus",
+        ",",
+        "whom",
+        "the",
+        "Romans",
+        "claimed",
+        "as",
+        "distinctively",
+        "their",
+        "own",
+        "."
+    ],
+    "spans": [
+        [
+            3,
+            25,
+            "--NME--",
+            "ancient Roman religion"
+        ],
+        [
+            30,
+            34,
+            "--NME--",
+            "myth"
+        ],
+        [
+            36,
+            41,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            45,
+            76,
+            "--NME--",
+            "the god of beginnings and gates"
+        ],
+        [
+            78,
+            80,
+            "--NME--",
+            "He"
+        ],
+        [
+            87,
+            100,
+            "--NME--",
+            "double nature"
+        ],
+        [
+            152,
+            154,
+            "--NME--",
+            "he"
+        ],
+        [
+            192,
+            197,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            288,
+            291,
+            "--NME--",
+            "his"
+        ],
+        [
+            357,
+            373,
+            "--NME--",
+            "the god of gates"
+        ],
+        [
+            375,
+            377,
+            "--NME--",
+            "he"
+        ],
+        [
+            444,
+            449,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            630,
+            635,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            758,
+            763,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            802,
+            805,
+            "--NME--",
+            "him"
+        ],
+        [
+            815,
+            826,
+            "--NME--",
+            "high priest"
+        ],
+        [
+            815,
+            834,
+            "--NME--",
+            "high priest himself"
+        ],
+        [
+            847,
+            850,
+            "--NME--",
+            "his"
+        ],
+        [
+            863,
+            868,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            991,
+            997,
+            "--NME--",
+            "Greeks"
+        ],
+        [
+            1019,
+            1024,
+            "--NME--",
+            "Janus"
+        ]
+    ],
+    "triplets": [
+        [
+            [
+                36,
+                41,
+                "--NME--",
+                "Janus"
+            ],
+            "part of",
+            [
+                3,
+                25,
+                "--NME--",
+                "ancient Roman religion"
+            ],
+            1.0
+        ],
+        [
+            [
+                36,
+                41,
+                "--NME--",
+                "Janus"
+            ],
+            "part of",
+            [
+                30,
+                34,
+                "--NME--",
+                "myth"
+            ],
+            0.029999999329447746
+        ],
+        [
+            [
+                36,
+                41,
+                "--NME--",
+                "Janus"
+            ],
+            "religion or worldview",
+            [
+                3,
+                25,
+                "--NME--",
+                "ancient Roman religion"
+            ],
+            0.5799999833106995
+        ],
+        [
+            [
+                45,
+                76,
+                "--NME--",
+                "the god of beginnings and gates"
+            ],
+            "part of",
+            [
+                3,
+                25,
+                "--NME--",
+                "ancient Roman religion"
+            ],
+            1.0
+        ],
+        [
+            [
+                78,
+                80,
+                "--NME--",
+                "He"
+            ],
+            "has characteristic",
+            [
+                87,
+                100,
+                "--NME--",
+                "double nature"
+            ],
+            0.019999999552965164
+        ],
+        [
+            [
+                78,
+                80,
+                "--NME--",
+                "He"
+            ],
+            "instance of",
+            [
+                87,
+                100,
+                "--NME--",
+                "double nature"
+            ],
+            0.949999988079071
+        ],
+        [
+            [
+                78,
+                80,
+                "--NME--",
+                "He"
+            ],
+            "said to be the same as",
+            [
+                87,
+                100,
+                "--NME--",
+                "double nature"
+            ],
+            0.019999999552965164
+        ],
+        [
+            [
+                152,
+                154,
+                "--NME--",
+                "he"
+            ],
+            "instance of",
+            [
+                87,
+                100,
+                "--NME--",
+                "double nature"
+            ],
+            0.15000000596046448
+        ],
+        [
+            [
+                444,
+                449,
+                "--NME--",
+                "Janus"
+            ],
+            "said to be the same as",
+            [
+                444,
+                449,
+                "--NME--",
+                "Janus"
+            ],
+            0.3499999940395355
+        ]
+    ],
+    "candidates": {
+        "span": [],
+        "triplet": [
+            [
+                [
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "foundational text",
+                        "id": 158,
+                        "metadata": {
+                            "description": "text through which an institution or object has been created or established",
+                            "property": "P457"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "attested in",
+                        "id": 173,
+                        "metadata": {
+                            "description": "document or corpus where the lemma or form of a Lexeme entity, word or name is used, but not described",
+                            "property": "P5323"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "official religion",
+                        "id": 160,
+                        "metadata": {
+                            "description": "official religion in this administrative entity",
+                            "property": "P3075"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "has characteristic",
+                        "id": 164,
+                        "metadata": {
+                            "description": "inherent or distinguishing quality or feature of the entity. Use a more specific property when possible",
+                            "property": "P1552"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "is the study of",
+                        "id": 113,
+                        "metadata": {
+                            "description": "the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.",
+                            "property": "P2578"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "different from",
+                        "id": 22,
+                        "metadata": {
+                            "description": "item that is different from another item, with which it may be confused",
+                            "property": "P1889"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "significant event",
+                        "id": 46,
+                        "metadata": {
+                            "description": "significant or notable events associated with the subject",
+                            "property": "P793"
+                        }
+                    },
+                    {
+                        "text": "follows",
+                        "id": 13,
+                        "metadata": {
+                            "description": "immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+                            "property": "P155"
+                        }
+                    },
+                    {
+                        "text": "participant",
+                        "id": 9,
+                        "metadata": {
+                            "description": "person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+                            "property": "P710"
+                        }
+                    },
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "position held",
+                        "id": 54,
+                        "metadata": {
+                            "description": "subject currently or formerly holds the object position or public office",
+                            "property": "P39"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "participant",
+                        "id": 9,
+                        "metadata": {
+                            "description": "person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+                            "property": "P710"
+                        }
+                    },
+                    {
+                        "text": "significant event",
+                        "id": 46,
+                        "metadata": {
+                            "description": "significant or notable events associated with the subject",
+                            "property": "P793"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "physically interacts with",
+                        "id": 85,
+                        "metadata": {
+                            "description": "physical entity that the subject interacts with",
+                            "property": "P129"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "manifestation of",
+                        "id": 141,
+                        "metadata": {
+                            "description": "inherent and characteristic embodiment of a given concept",
+                            "property": "P1557"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "has characteristic",
+                        "id": 164,
+                        "metadata": {
+                            "description": "inherent or distinguishing quality or feature of the entity. Use a more specific property when possible",
+                            "property": "P1552"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "follows",
+                        "id": 13,
+                        "metadata": {
+                            "description": "immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+                            "property": "P155"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "manifestation of",
+                        "id": 141,
+                        "metadata": {
+                            "description": "inherent and characteristic embodiment of a given concept",
+                            "property": "P1557"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "feast day",
+                        "id": 312,
+                        "metadata": {
+                            "description": "saint's principal feast day",
+                            "property": "P841"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "canonization status",
+                        "id": 298,
+                        "metadata": {
+                            "description": "Formal stage in the process of attaining sainthood per the subject's religious organization",
+                            "property": "P411"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "place of death",
+                        "id": 49,
+                        "metadata": {
+                            "description": "most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character",
+                            "property": "P20"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "place of burial",
+                        "id": 90,
+                        "metadata": {
+                            "description": "location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.",
+                            "property": "P119"
+                        }
+                    },
+                    {
+                        "text": "position held",
+                        "id": 54,
+                        "metadata": {
+                            "description": "subject currently or formerly holds the object position or public office",
+                            "property": "P39"
+                        }
+                    },
+                    {
+                        "text": "occupation",
+                        "id": 74,
+                        "metadata": {
+                            "description": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)",
+                            "property": "P106"
+                        }
+                    },
+                    {
+                        "text": "dedicated to",
+                        "id": 175,
+                        "metadata": {
+                            "description": "person or organization to whom the subject was dedicated",
+                            "property": "P825"
+                        }
+                    },
+                    {
+                        "text": "student",
+                        "id": 69,
+                        "metadata": {
+                            "description": "notable student(s) of the subject individual",
+                            "property": "P802"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "child",
+                        "id": 14,
+                        "metadata": {
+                            "description": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)",
+                            "property": "P40"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "military rank",
+                        "id": 109,
+                        "metadata": {
+                            "description": "military rank achieved by a person (should usually have a \"start time\" qualifier), or military rank associated with a position",
+                            "property": "P410"
+                        }
+                    },
+                    {
+                        "text": "noble title",
+                        "id": 119,
+                        "metadata": {
+                            "description": "titles held by the person",
+                            "property": "P97"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "opposite of",
+                        "id": 56,
+                        "metadata": {
+                            "description": "item that is in some way the opposite of this item",
+                            "property": "P461"
+                        }
+                    },
+                    {
+                        "text": "facet of",
+                        "id": 64,
+                        "metadata": {
+                            "description": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+                            "property": "P1269"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "is the study of",
+                        "id": 113,
+                        "metadata": {
+                            "description": "the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.",
+                            "property": "P2578"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "has cause",
+                        "id": 80,
+                        "metadata": {
+                            "description": "underlying cause, thing that ultimately resulted in this effect",
+                            "property": "P828"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "field of work",
+                        "id": 53,
+                        "metadata": {
+                            "description": "specialization of a person or organization; see P106 for the occupation",
+                            "property": "P101"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "text": "ethnic group",
+                        "id": 78,
+                        "metadata": {
+                            "description": "subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)",
+                            "property": "P172"
+                        }
+                    },
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    },
+                    {
+                        "text": "language used",
+                        "id": 50,
+                        "metadata": {
+                            "description": "language widely used (spoken or written) in this place or at this event",
+                            "property": "P2936"
+                        }
+                    },
+                    {
+                        "text": "languages spoken, written or signed",
+                        "id": 51,
+                        "metadata": {
+                            "description": "language(s) that a person or a people speaks, writes or signs, including the native language(s)",
+                            "property": "P1412"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "named after",
+                        "id": 45,
+                        "metadata": {
+                            "description": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one",
+                            "property": "P138"
+                        }
+                    },
+                    {
+                        "text": "country",
+                        "id": 0,
+                        "metadata": {
+                            "description": "sovereign state that this item is in (not to be used for human beings)",
+                            "property": "P17"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "place of birth",
+                        "id": 39,
+                        "metadata": {
+                            "description": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",
+                            "property": "P19"
+                        }
+                    }
+                ]
+            ]
+        ]
+    }
+}

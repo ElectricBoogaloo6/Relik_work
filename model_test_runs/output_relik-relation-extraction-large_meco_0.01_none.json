@@ -1,0 +1,581 @@
+{
+    "text": "In ancient Roman religion and myth, Janus is the god of beginnings and gates. He has a double nature and is usually depicted as having two faces, since he looks to the future and to the past. Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus had no specialized priest assigned to him, but the high priest himself carried out his ceremonies. Janus represented the middle ground between barbarism and civilization, rural and urban space, youth and adulthood. The ancient Greeks had no equivalent to Janus, whom the Romans claimed as distinctively their own.",
+    "tokens": [
+        "In",
+        "ancient",
+        "Roman",
+        "religion",
+        "and",
+        "myth",
+        ",",
+        "Janus",
+        "is",
+        "the",
+        "god",
+        "of",
+        "beginnings",
+        "and",
+        "gates",
+        ".",
+        "He",
+        "has",
+        "a",
+        "double",
+        "nature",
+        "and",
+        "is",
+        "usually",
+        "depicted",
+        "as",
+        "having",
+        "two",
+        "faces",
+        ",",
+        "since",
+        "he",
+        "looks",
+        "to",
+        "the",
+        "future",
+        "and",
+        "to",
+        "the",
+        "past",
+        ".",
+        "Janus",
+        "presided",
+        "over",
+        "the",
+        "beginning",
+        "and",
+        "ending",
+        "of",
+        "conflict",
+        ",",
+        "and",
+        "hence",
+        "war",
+        "and",
+        "peace",
+        ".",
+        "The",
+        "doors",
+        "of",
+        "his",
+        "temple",
+        "were",
+        "open",
+        "in",
+        "times",
+        "of",
+        "war",
+        "and",
+        "closed",
+        "during",
+        "peacetime",
+        ".",
+        "As",
+        "the",
+        "god",
+        "of",
+        "gates",
+        ",",
+        "he",
+        "was",
+        "also",
+        "associated",
+        "with",
+        "entering",
+        "and",
+        "exiting",
+        "the",
+        "doors",
+        "of",
+        "homes",
+        ".",
+        "Janus",
+        "frequently",
+        "symbolized",
+        "change",
+        "and",
+        "transitions",
+        ",",
+        "such",
+        "as",
+        "the",
+        "progress",
+        "from",
+        "one",
+        "condition",
+        "to",
+        "another",
+        ",",
+        "from",
+        "one",
+        "vision",
+        "to",
+        "another",
+        ",",
+        "and",
+        "the",
+        "growth",
+        "of",
+        "young",
+        "people",
+        "into",
+        "adulthood",
+        ".",
+        "Hence",
+        ",",
+        "Janus",
+        "was",
+        "worshipped",
+        "at",
+        "the",
+        "beginning",
+        "of",
+        "the",
+        "harvest",
+        "and",
+        "planting",
+        "times",
+        ",",
+        "as",
+        "well",
+        "as",
+        "at",
+        "marriages",
+        ",",
+        "deaths",
+        ",",
+        "and",
+        "other",
+        "beginnings",
+        ".",
+        "Janus",
+        "had",
+        "no",
+        "specialized",
+        "priest",
+        "assigned",
+        "to",
+        "him",
+        ",",
+        "but",
+        "the",
+        "high",
+        "priest",
+        "himself",
+        "carried",
+        "out",
+        "his",
+        "ceremonies",
+        ".",
+        "Janus",
+        "represented",
+        "the",
+        "middle",
+        "ground",
+        "between",
+        "barbarism",
+        "and",
+        "civilization",
+        ",",
+        "rural",
+        "and",
+        "urban",
+        "space",
+        ",",
+        "youth",
+        "and",
+        "adulthood",
+        ".",
+        "The",
+        "ancient",
+        "Greeks",
+        "had",
+        "no",
+        "equivalent",
+        "to",
+        "Janus",
+        ",",
+        "whom",
+        "the",
+        "Romans",
+        "claimed",
+        "as",
+        "distinctively",
+        "their",
+        "own",
+        "."
+    ],
+    "spans": [
+        [
+            3,
+            25,
+            "--NME--",
+            "ancient Roman religion"
+        ],
+        [
+            30,
+            34,
+            "--NME--",
+            "myth"
+        ],
+        [
+            36,
+            41,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            45,
+            76,
+            "--NME--",
+            "the god of beginnings and gates"
+        ],
+        [
+            49,
+            52,
+            "--NME--",
+            "god"
+        ],
+        [
+            78,
+            80,
+            "--NME--",
+            "He"
+        ],
+        [
+            152,
+            154,
+            "--NME--",
+            "he"
+        ],
+        [
+            192,
+            763,
+            "--NME--",
+            "Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus"
+        ],
+        [
+            192,
+            197,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            192,
+            635,
+            "--NME--",
+            "Janus presided over the beginning and ending of conflict, and hence war and peace. The doors of his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus"
+        ],
+        [
+            288,
+            763,
+            "--NME--",
+            "his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus"
+        ],
+        [
+            288,
+            635,
+            "--NME--",
+            "his temple were open in times of war and closed during peacetime. As the god of gates, he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus"
+        ],
+        [
+            288,
+            291,
+            "--NME--",
+            "his"
+        ],
+        [
+            357,
+            373,
+            "--NME--",
+            "the god of gates"
+        ],
+        [
+            375,
+            805,
+            "--NME--",
+            "he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus had no specialized priest assigned to him"
+        ],
+        [
+            375,
+            763,
+            "--NME--",
+            "he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus"
+        ],
+        [
+            375,
+            635,
+            "--NME--",
+            "he was also associated with entering and exiting the doors of homes. Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus"
+        ],
+        [
+            375,
+            377,
+            "--NME--",
+            "he"
+        ],
+        [
+            444,
+            449,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            444,
+            763,
+            "--NME--",
+            "Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus was worshipped at the beginning of the harvest and planting times, as well as at marriages, deaths, and other beginnings. Janus"
+        ],
+        [
+            444,
+            635,
+            "--NME--",
+            "Janus frequently symbolized change and transitions, such as the progress from one condition to another, from one vision to another, and the growth of young people into adulthood. Hence, Janus"
+        ],
+        [
+            630,
+            635,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            675,
+            682,
+            "--NME--",
+            "harvest"
+        ],
+        [
+            687,
+            695,
+            "--NME--",
+            "planting"
+        ],
+        [
+            758,
+            763,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            802,
+            805,
+            "--NME--",
+            "him"
+        ],
+        [
+            847,
+            850,
+            "--NME--",
+            "his"
+        ],
+        [
+            863,
+            868,
+            "--NME--",
+            "Janus"
+        ],
+        [
+            983,
+            997,
+            "--NME--",
+            "ancient Greeks"
+        ],
+        [
+            1019,
+            1024,
+            "--NME--",
+            "Janus"
+        ]
+    ],
+    "triplets": [
+        [
+            [
+                36,
+                41,
+                "--NME--",
+                "Janus"
+            ],
+            "part of",
+            [
+                3,
+                25,
+                "--NME--",
+                "ancient Roman religion"
+            ],
+            0.9300000071525574
+        ],
+        [
+            [
+                36,
+                41,
+                "--NME--",
+                "Janus"
+            ],
+            "part of",
+            [
+                30,
+                34,
+                "--NME--",
+                "myth"
+            ],
+            0.05999999865889549
+        ],
+        [
+            [
+                36,
+                41,
+                "--NME--",
+                "Janus"
+            ],
+            "part of",
+            [
+                49,
+                52,
+                "--NME--",
+                "god"
+            ],
+            0.029999999329447746
+        ],
+        [
+            [
+                45,
+                76,
+                "--NME--",
+                "the god of beginnings and gates"
+            ],
+            "part of",
+            [
+                3,
+                25,
+                "--NME--",
+                "ancient Roman religion"
+            ],
+            1.0
+        ],
+        [
+            [
+                45,
+                76,
+                "--NME--",
+                "the god of beginnings and gates"
+            ],
+            "part of",
+            [
+                30,
+                34,
+                "--NME--",
+                "myth"
+            ],
+            0.38999998569488525
+        ],
+        [
+            [
+                45,
+                76,
+                "--NME--",
+                "the god of beginnings and gates"
+            ],
+            "part of",
+            [
+                49,
+                52,
+                "--NME--",
+                "god"
+            ],
+            0.03999999910593033
+        ]
+    ],
+    "candidates": {
+        "span": [],
+        "triplet": [
+            [
+                [
+                    {
+                        "text": "time period",
+                        "id": 107,
+                        "metadata": {
+                            "description": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+                            "property": "P2348"
+                        }
+                    },
+                    {
+                        "text": "ethnic group",
+                        "id": 78,
+                        "metadata": {
+                            "description": "subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)",
+                            "property": "P172"
+                        }
+                    },
+                    {
+                        "text": "part of",
+                        "id": 3,
+                        "metadata": {
+                            "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))",
+                            "property": "P361"
+                        }
+                    },
+                    {
+                        "text": "said to be the same as",
+                        "id": 166,
+                        "metadata": {
+                            "description": "this item is said to be the same as that item, though this may be uncertain or disputed",
+                            "property": "P460"
+                        }
+                    },
+                    {
+                        "text": "patron saint",
+                        "id": 131,
+                        "metadata": {
+                            "description": "patron saint adopted by the subject",
+                            "property": "P417"
+                        }
+                    },
+                    {
+                        "text": "religion or worldview",
+                        "id": 41,
+                        "metadata": {
+                            "description": "religion of a person, organization or religious building, or associated with this subject",
+                            "property": "P140"
+                        }
+                    },
+                    {
+                        "text": "subclass of",
+                        "id": 23,
+                        "metadata": {
+                            "description": "this item is a subclass (subset) of that item; all instances of this item are instances of that item; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P279"
+                        }
+                    },
+                    {
+                        "text": "indigenous to",
+                        "id": 86,
+                        "metadata": {
+                            "description": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)",
+                            "property": "P2341"
+                        }
+                    },
+                    {
+                        "text": "instance of",
+                        "id": 20,
+                        "metadata": {
+                            "description": "that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)",
+                            "property": "P31"
+                        }
+                    },
+                    {
+                        "text": "named after",
+                        "id": 45,
+                        "metadata": {
+                            "description": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one",
+                            "property": "P138"
+                        }
+                    }
+                ]
+            ]
+        ]
+    }
+}
