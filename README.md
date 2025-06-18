@@ -4,7 +4,7 @@ This repo runs the *Relik* model in a continuous-incremental extractor on a corp
 
 * Model source <https://github.com/SapienzaNLP/relik>  
 * Corpus source <https://osf.io/srdhm>  
-* Compute VU **BAZIS** HPC -­ <https://vu.nl/en/research/portal/research-impact-support-portal/high-performance-research-computing>
+* VU **BAZIS** HPC -­ <https://vu.nl/en/research/portal/research-impact-support-portal/high-performance-research-computing>
 
 ---
 
@@ -12,10 +12,10 @@ This repo runs the *Relik* model in a continuous-incremental extractor on a corp
 
 | Path / file | What it holds |
 | ------------| ------------- |
-| **all_outputs/** | Final CSVs for each *model size × corpus text*<br>• `additions_*` – only new triples<br>• `deletions_*` – triples that disappeared<br>• `full_*` – whole triple set after every step |
+| **all_outputs/** | Final CSVs for each *model size × corpus text*<br>• `additions_*` – only new triples<br>• `deletions_*` – triples that disappeared<br>• `full_*` – everything after each step every step |
 | **model_test_runs/** | Test CSVs created with several **window_size** settings |
 | **threshold_window_size_tests/** | Test CSVs created with several **threshold** settings |
-| **step_outputs.7z** | JSON output for *every* incremental step (one file per word per text) |
+| **step_outputs.7z** | zipped JSON output for *every* incremental step (one file per word per text) |
 | **code_for_BAZIS.py** | Python file that produces the step-level JSON files |
 | **relik_test_batch.sh** | Bash script that queues `code_for_BAZIS.py` on the BAZIS cluster |
 | **compile_relik.ipynb** | Notebook that converts the JSONs into the three (additions, deletions and full) CSVs |
